@@ -1,13 +1,8 @@
-from random import random
 import threading
 from flickrapi import FlickrAPI
-import time, json,os, json_downloader,_thread
-
+import time
 from regex import P
 import pandas as pd
-import cProfile
-import io
-import pstats
 
 def get_photos_json(FLICKR_PUBLIC, FLICKR_SECRET, min_pages, max_pages, license, part_num):
     '''
@@ -17,11 +12,8 @@ def get_photos_json(FLICKR_PUBLIC, FLICKR_SECRET, min_pages, max_pages, license,
     For 120 million photos, this function will take around 2.2 days to run.
     For 470 million photos, this function will take around 8.7 days to run.
     '''
-    global timeo
     flickr = FlickrAPI(FLICKR_PUBLIC, FLICKR_SECRET, format='parsed-json')
     extras='license,owner_name,url_o,o_dims,tags,description,date_upload,date_taken'
-    #make rand num 1 to 10000
-    filename = f'flickr_photos_set_license{license}_{str(page_num * 500)}}_{part_num}.parquet'
     df = pd.DataFrame(columns=['owner_name', 'title', 'height', 'width', 'url', 'id', 'description','tags',  'date_upload', 'date_taken', 'license'])
     counter = 0
     page_num = 1
@@ -47,18 +39,16 @@ def get_photos_json(FLICKR_PUBLIC, FLICKR_SECRET, min_pages, max_pages, license,
                     'date_taken': str(photo['datetaken']),
                     'license': str(photo['license'])
                 }
-                #add data to a python dictionary called dict
                 dict.update(data)
                 del data
-
-
             counter += 500
             df.loc[counter] = dict
             del dict
-            print(str(time.time() - start))
+            print(str(time.time() - start), part_num)
         except Exception as e:
             print('error with' + str(page*500) + ' photos scraped, and exception:'  + str(e))
             break
+    filename = f'flickr_photos_set_license{license}_{str(page_num * 500)}_{part_num}.parquet'
     df.to_parquet(filename, compression='snappy')
     return filename
 
@@ -66,9 +56,9 @@ def get_photos_json(FLICKR_PUBLIC, FLICKR_SECRET, min_pages, max_pages, license,
 
 def createNewDownloadThread(FLICKR_PUBLIC, FLICKR_SECRET, min_pages, max_pages, license, part_num):
     download_thread = threading.Thread(target=get_photos_json, args=(FLICKR_PUBLIC, FLICKR_SECRET, min_pages, max_pages, license,part_num))
-    download_thread.start() 
-    download_thread.join()
+    download_thread.start()
 
 
-#createNewDownloadThread('649835cc098f813e4cd6b27f0efdcbb4', '5896052cf18c8854', 1, 10, '1', 1)
-get_photos_json('649835cc098f813e4cd6b27f0efdcbb4', '5896052cf18c8854', 1, 75, '1', 1)
+createNewDownloadThread('API_KEY', 'API_SECRET', 9601, 19200, '1', 1) # part 1
+createNewDownloadThread('API_KEY', 'API_SECRET', 9601, 19200, '1', 2) # part 2
+createNewDownloadThread('API_KEY', 'API_SECRET', 19201, 28800, '1', 3) # part 3
