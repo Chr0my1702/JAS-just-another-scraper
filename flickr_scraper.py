@@ -17,10 +17,10 @@ def get_photos_json(FLICKR_PUBLIC, FLICKR_SECRET, min_pages, max_pages, license,
     extras='license,owner_name,url_o,o_dims,tags,description,date_upload,date_taken'
     counter = 0
     page_num = 1
+    array = []
     for page in range(min_pages,max_pages):
         start = time.time()
         try:
-            array = []
             photos = flickr.photos.search(per_page=500, extras=extras, license=license, page=page)
             page_num += 1
             for photo in photos['photos']['photo']:
