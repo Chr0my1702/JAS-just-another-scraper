@@ -1,3 +1,4 @@
+from multiprocessing.dummy import Array
 import threading
 from flickrapi import FlickrAPI
 import time
@@ -14,13 +15,12 @@ def get_photos_json(FLICKR_PUBLIC, FLICKR_SECRET, min_pages, max_pages, license,
     '''
     flickr = FlickrAPI(FLICKR_PUBLIC, FLICKR_SECRET, format='parsed-json')
     extras='license,owner_name,url_o,o_dims,tags,description,date_upload,date_taken'
-    df = pd.DataFrame(columns=['owner_name', 'title', 'height', 'width', 'url', 'id', 'description','tags',  'date_upload', 'date_taken', 'license'])
     counter = 0
     page_num = 1
     for page in range(min_pages,max_pages):
         start = time.time()
         try:
-            dict = {}
+            array = []
             photos = flickr.photos.search(per_page=500, extras=extras, license=license, page=page)
             page_num += 1
             for photo in photos['photos']['photo']:
@@ -39,17 +39,18 @@ def get_photos_json(FLICKR_PUBLIC, FLICKR_SECRET, min_pages, max_pages, license,
                     'date_taken': str(photo['datetaken']),
                     'license': str(photo['license'])
                 }
-                dict.update(data)
+                #add to array
+                array.append(data)
                 del data
             counter += 500
-            df.loc[counter] = dict
-            del dict
             print(str(time.time() - start), part_num)
         except Exception as e:
             print('error with' + str(page*500) + ' photos scraped, and exception:'  + str(e))
             break
     filename = f'flickr_photos_set_license{license}_{str(page_num * 500)}_{part_num}.parquet'
-    df.to_parquet(filename, compression='snappy')
+    #make dataframe with those columds below, make the data from array into a dataframe and save it to parquet
+    df = pd.DataFrame(array, columns=['owner_name', 'title', 'height', 'width', 'url', 'id', 'description', 'tags', 'date_upload', 'date_taken', 'license'])
+    df.to_parquet(filename)
     return filename
 
 
