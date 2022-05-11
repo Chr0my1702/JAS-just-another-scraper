@@ -30,8 +30,8 @@ with open('freesound_samples.json', 'a') as f:
             tags = tags[:-1]
 
             #print(",".join(tags))
-            #json.dump({"username": username, "title": title, "description": description, "download_url": download_url, "tags": tags}, f)
-            #f.write(',\n')
+            json.dump({"username": username, "title": title, "description": description, "download_url": download_url, "tags": tags}, f)
+            f.write(',\n')
         print("page ", page_num," took",time.time()-start)
 
 
