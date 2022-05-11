@@ -1,4 +1,3 @@
-from multiprocessing.dummy import Array
 import threading
 from flickrapi import FlickrAPI
 import time
