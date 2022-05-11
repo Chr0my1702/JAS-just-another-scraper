@@ -5,17 +5,21 @@ from bs4 import BeautifulSoup
 import requests
 import urllib
 import json, time
+from requests_html import HTMLSession
+session = HTMLSession()
+
+
 max_pages = 20
 #make json file and write to it
 with open('freesound_samples.json', 'a') as f:
     f.write('[')
     for page_num in range(max_pages):
         start = time.time()
-        page = requests.get(f"https://freesound.org/search/?q=&page={page_num}#sound")
-        soup = BeautifulSoup(page.content, 'html.parser')
+        page = session.get(f"https://freesound.org/search/?q=&page={page_num}#sound")
+        soup = BeautifulSoup(page.content, "lxml")
         mydivs = soup.find_all("div", {"class": "sample_player_small"})
         for div in mydivs:
-            div_soup = BeautifulSoup(str(div), 'html.parser')
+            div_soup = BeautifulSoup(str(div), "lxml")
 
             username = div_soup.find("a", {"class": "user"}).get_text()
             title = div_soup.find("a", {"class": "title"}).get_text()
