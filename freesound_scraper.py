@@ -1,88 +1,96 @@
+import requests
 from bs4 import BeautifulSoup
-import json, time, threading
-from requests_html import HTMLSession
+from dataclasses import replace
+from itertools import count
+import json
+import os
+import random
+import requests
+import time
 import pandas as pd
 
-def scrape_pages_parquet(min_pages, max_pages, set_num):
-    session = HTMLSession()
-    counter = 0
+
+def scrape_api(from_page, to_page, set_num, foldername):
     array = []
-    thousandCounter = 0
-    for page_num in range(min_pages, max_pages):
+    token_array = ["INSERT TOKEN HERE"]
+    params ={
+        'token': token_array[1],
+        'page': from_page,
+        'group_by_pack': 0,
+        'sort':"created_desc",
+        'page_size': 150,
+        'fields':'username,id,name,download,description,tags',
+    }
+    for i in range(from_page, to_page):
+        start=time.time()
+        params["page"] = i
         try:
-            start = time.time()
-            page = session.get(f"https://freesound.org/search/?q=&page={page_num}#sound")
-            soup = BeautifulSoup(page.content, "lxml")
-            mydivs = soup.find_all("div", {"class": "sample_player_small"})
-            for div in mydivs:
-                div_soup = BeautifulSoup(str(div), "lxml")
-
-                username = div_soup.find("a", {"class": "user"}).get_text()
-                title = div_soup.find("a", {"class": "title"}).get_text()
-                title_internal = div_soup.find("a", {"class": "title"}).get_attribute_list("title")[0].replace(" ", "-")
-                id = div_soup.find("div", {"class": "sample_player_small"}).get_attribute_list("id")[0]
-                download_url = f"https://freesound.org/people/{username}/sounds/{id}/download/{id}__{username}__{title_internal}"
-                description = div_soup.find("p", {"class": "description"}).get_text()
-                if description[-3:] == "...":
-                    try:
-                        description_full_link = session.get(f"https://freesound.org/people/{username}/sounds/{id}")
-                        #print(f"https://freesound.org/people/{username}/sounds/{id}")
-                        description_full_soup = BeautifulSoup(description_full_link.content, "lxml")
-                        description_full_div = description_full_soup.find("div", {"id": "sound_description"}).find("p").get_text()
-                        description_text = "".join(description_full_div.splitlines())
-                        #print(description_text)
-                        description = description_text
-                        del description_text
-                        del description_full_div
-                        del description_full_link
-                    except Exception as e:
-                        print("EXCEPTION:", e)
-                try:
-                    tag_internal = div_soup.findChildren("div", {"class": "sound_tags"})
-                    for i in range(len(tag_internal)):
-                        if str(tag_internal[i].get_text()) != "\n":
-                            tags = str(str(tag_internal[i].get_text()).replace("\n", ",")).replace(",,", "").replace(",,,", "")
-                    tags = tags[:-1]
-                except:
-                    tags = ""
-
-                data = {
-                    "username": username,
-                    "id": str(id),
-                    "title": title,
-                    "description": description,
-                    "download_url": download_url,
-                    "tags": tags
-                }
-                array.append(data)
-                del data
-                counter += 0.001
+            r = requests.get("https://freesound.org/apiv2/search/text", params=params)
         except Exception as e:
-            print("EXCEPTION:" ,e)
-        print(f"PARQUET: set {str(set_num)},  page ", page_num,", took",time.time()-start)
-        #if counter Mod 1000 == 0:
+            print("EXCEPTION:", e)
+        
+        try:
+            if r.json()["detail"]:
+                position = token_array.index(params["token"])
+                params["token"] = token_array[position+1]
 
-        if counter ==1:
-            thousandCounter += 1
-            print(f"PARQUET: set {str(set_num)},  page ", page_num,", took",time.time()-start)
-            df = pd.DataFrame(array, columns=["username","id", "title", "description", "download_url", "tags"])
-            df.to_parquet(f"freesound_parquet_{str(set_num)}_{str(thousandCounter)}.parquet")
-            del df
-            array = []
-    filename = f'freesound_set_{set_num}_{str(thousandCounter+1)}.parquet'
-    df = pd.DataFrame(array, columns=["username","id", "title", "description", "download_url", "tags"])
-    #df.to_parquet(filename)
-
+                try:
+                    r = requests.get("https://freesound.org/apiv2/search/text", params=params)
+                except Exception as e:
+                    print("EXCEPTION:", e)
+        except:
+            pass
 
 
-def createNewScrapePARQUETThread(min_pages, max_pages, part_num):
-    download_thread = threading.Thread(target=scrape_pages_parquet, args=(min_pages, max_pages, part_num))
-    download_thread.start()
+        for j in range(0,150):
+            json_data = r.json()["results"][j]
+            
+            tags = ""
+            for i in range(0,len(json_data["tags"])):
+                tags += str(json_data["tags"][i] + ",")
+            data = {
+                "id": json_data["id"],
+                "title": json_data["name"],
+                "tags:": str(tags),
+                "description": str(json_data["description"]).replace('\n','').replace('\r','').replace('\t',''),
+                "username": json_data["username"],
+                "download_url": json_data["download"],
+            }
+            array.append(data)
+            del data
 
-createNewScrapePARQUETThread(1, 15001, 1)
-createNewScrapePARQUETThread(15002, 36602, 2)
-#createNewScrapePARQUETThread(15003, 20003, 4)
-#createNewScrapePARQUETThread(20004, 25004, 5)
-#createNewScrapePARQUETThread(25005, 30005, 6)
-#createNewScrapePARQUETThread(30006, 35006, 7)
-#createNewScrapePARQUETThread(35007, 36007, 8)
+        del json_data
+        
+        params['page'] = i+1
+
+        print(str(set_num)+": "+str(time.time()-start))
+
+        if i == to_page/2:            
+            df = pd.DataFrame(array) 
+            df.to_parquet(foldername + "/" + f"freesound_parquet_{str(to_page)}_{str(set_num)}_halfsets.parquet")
+
+
+    start=time.time()
+
+    df = pd.DataFrame(array) 
+    df.to_parquet(foldername + "/" + f"freesound_parquet_{str(to_page)}_{str(set_num)}.parquet")
+
+    print("Number "+str(set_num)+ "has been convertedonvert to parquet")
+
+import multiprocessing
+if __name__ == '__main__':
+    total_pages = 3700
+    half_pages = int(total_pages/2)
+    p =  multiprocessing.Process(target= scrape_api, args = (1, 10, 999, "freesound_sets"))
+    p.start()
+    p.join()
+    p2 = multiprocessing.Process(target= scrape_api, args = (10, 1000, 2, "freesound_sets"))
+    p3 = multiprocessing.Process(target= scrape_api, args = (1000, 2000, 3, "freesound_sets"))
+    p2.start()
+    p3.start()
+    p3.join()
+    p4 = multiprocessing.Process(target= scrape_api, args = (2000, 3000, 4, "freesound_sets"))
+    p5 = multiprocessing.Process(target= scrape_api, args = (3000, 3700, 5, "freesound_sets"))
+    p4.start()
+    p5.start()
+
