@@ -1,0 +1,713 @@
+,access_string,title,size,age_range,type,tags,github_url
+0,ds004166,"Effects of Forward and Backward Span Trainings on Working Memory: Evidence from a Randomized, Controlled Trial",77.37GB,18 - 27,EEG,,https: // github.com/OpenNeuroDatasets/ds004166
+1,ds004161,Turone Sheep Chronic Stress (TSCS),16.07GB,4 - 4,MRI,topupResting-State,https: // github.com/OpenNeuroDatasets/ds004161
+2,ds004158,rest_eye,19.87GB,19 - 54,MRI,rest,https: // github.com/OpenNeuroDatasets/ds004158
+3,ds004152,Drum Trainer,4.55GB,21 - 41,EEG,drumtrainer,https: // github.com/OpenNeuroDatasets/ds004152
+4,ds004151,Effect of obesity on inhibitory control in preadolescents during stop-signal task. An event-related potentials study,23.14GB,,EEG,Stop-signal task,https: // github.com/OpenNeuroDatasets/ds004151
+5,ds004148,A test-retest resting and cognitive state EEG dataset,93.25GB,18 - 28,EEG,eyes closedmathematiceyes openmemorymusic,https: // github.com/OpenNeuroDatasets/ds004148
+6,ds004147,Average Task Value,4GB,22 - 77,EEG,casinos,https: // github.com/OpenNeuroDatasets/ds004147
+7,ds004146,Queensland Twin Adolescent Brain (QTAB),745.14GB,8 - 14,MRI,restpartlycloudyemotionalconflict,https: // github.com/OpenNeuroDatasets/ds004146
+8,ds004144,"A behavioral, clinical and brain imaging dataset with focus on emotion regulation of females with fibromyalgia",17.9GB,,MRI,eprrestemo,https: // github.com/OpenNeuroDatasets/ds004144
+9,ds004142,Exploring the Neural Correlates of Feedback-Related Reward Saliency and Valence During Real-Time fMRI-Based Neurofeedback,1.73GB,19 - 35,MRI,"nflocV5/hMT complex localizer based on moving points (for more information please refer to Sousa, T., Direito, B., Lima, J., Ferreira, C., Nunes, U., & Castelo-Branco, M. (2016). Control of Brain Activity in hMT+/V5 at Three Response Levels Using fMRI-Based Neurofeedback/BCI. Plos One, 11(5), e0155961. https://doi.org/10.1371/journal.pone.0155961)Neurofeedback task based on the imagery of moving points (volitional modulation of v5/hMT complex)",https: // github.com/OpenNeuroDatasets/ds004142
+10,ds004141,Targeting Dynamic Facial Processing Mechanisms in Superior Temporal Sulcus Using fMRI Neurofeedback,1.69GB,21 - 31,MRI,auditoryfeedbackfaceexplocalizervisualfeedbacknofeedbackNeurofeedback task using imagery of facial expressions based on a auditory interfaceLocalizer approach based on the contrast of dynamic facial expressions against static neutral faces plus moving dots. The target region had to be specifically responsive to dynamic facial expressions instead ofmere motion and/or the presence of a static face.Functional task using imagery of facial expressions without feedback (control run)Neurofeedback task using imagery of facial expressions based on a visual interface,https: // github.com/OpenNeuroDatasets/ds004141
+11,ds004134,Experience Sampling in Resting State,12.12GB,18 - 30,MRI,ExpSamp,https: // github.com/OpenNeuroDatasets/ds004134
+12,ds004131,BIDS Phenotype External Example Dataset,10.03MB,18 - 89,MRI,,https: // github.com/OpenNeuroDatasets/ds004131
+13,ds004130,BIDS Phenotype Aggregation Example Dataset,11.55MB,18 - 89,MRI,,https: // github.com/OpenNeuroDatasets/ds004130
+14,ds004129,BIDS Phenotype Segregation Example Dataset,18.55MB,18 - 89,MRI,,https: // github.com/OpenNeuroDatasets/ds004129
+15,ds004128,Neural representations of others' traits predict social decisions,6.98GB,18 - 64,MRI,DG,https: // github.com/OpenNeuroDatasets/ds004128
+16,ds004126,Visual ECoG dataset,26.65GB,18 - 47,iEEGMRI,prfspatialpatterntemporalpatternsoc,https: // github.com/OpenNeuroDatasets/ds004126
+17,ds004123,BCIT Traffic Complexity,17.52GB,,EEG,DriveWithComplexity,https: // github.com/OpenNeuroDatasets/ds004123
+18,ds004122,BCIT Speed Control,36.16GB,,EEG,Drive,https: // github.com/OpenNeuroDatasets/ds004122
+19,ds004121,BCIT Mind Wandering,23.91GB,,EEG,DriveWithTaskAudio,https: // github.com/OpenNeuroDatasets/ds004121
+20,ds004120,BCIT Baseline Driving,302.49GB,,EEG,DriveWithSpeedChange,https: // github.com/OpenNeuroDatasets/ds004120
+21,ds004119,BCIT Basic Guard Duty,55.14GB,,EEG,GuardDuty,https: // github.com/OpenNeuroDatasets/ds004119
+22,ds004118,BCIT Calibration Driving,124.34GB,,EEG,Drive,https: // github.com/OpenNeuroDatasets/ds004118
+23,ds004117,Sternberg Working Memory,5.8GB,19 - 40,EEG,WorkingMemory,https: // github.com/OpenNeuroDatasets/ds004117
+24,ds004116,StandardRat,26.38GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds004116
+25,ds004114,MultiRat_rest,94.78GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds004114
+26,ds004109,Emotional learning retroactively promotes memory integration through rapid neural reactivation and reorganization,111.41GB,18 - 27,MRI,elpl1rest1pl2rest3rest2,https: // github.com/OpenNeuroDatasets/ds004109
+27,ds004107,MIND DATA,77.21GB,,MEGMRI,noiseauditoryindexmedianrestvisual,https: // github.com/OpenNeuroDatasets/ds004107
+28,ds004106,BCIT Advanced Guard Duty,67.61GB,,EEG,GuardDuty,https: // github.com/OpenNeuroDatasets/ds004106
+29,ds004105,BCIT Auditory Cueing,20.37GB,,EEG,DriveRandomSound,https: // github.com/OpenNeuroDatasets/ds004105
+30,ds004103,Collaborations and deceptions in strategic interactions revealed by hyperscanning fMRI,16.7GB,,MRI,OTCG,https: // github.com/OpenNeuroDatasets/ds004103
+31,ds004102,Stimulation of the dorsolateral prefrontsal cortex modulates brain cue reactivity to reward(un)availability,31.14GB,,MRI,cueexposure,https: // github.com/OpenNeuroDatasets/ds004102
+32,ds004101,Resting-state fMRI data acquired before and after a course of infra-low frequency neurofeedback,821.22MB,43 - 61,MRI,rest,https: // github.com/OpenNeuroDatasets/ds004101
+33,ds004097,An open-access accelerated adult equivalent of the ABCD Study neuroimaging dataset (a-ABCD),139.92GB,,MRI,Monetary Incentive Delayn-backResting State (eyes open)Stop-Signal Task,https: // github.com/OpenNeuroDatasets/ds004097
+34,ds004094,Effects of temporal community structure learning on reasoning decisions,117.27GB,18 - 35,MRI,structStructured object sequences,https: // github.com/OpenNeuroDatasets/ds004094
+35,ds004092,Imaging the influence of peripheral TRPV1-signaling on cerebral nociceptive processing applying fMRI-based graph theory in a resiniferatoxin rat model,11.98GB,,MRI,Value was not specified,https: // github.com/OpenNeuroDatasets/ds004092
+36,ds004091,GAZE PRF,47.38GB,21 - 40,MRI,AttendFixGazeCenterFSAttendFixGazeCenterAttendFixGazeLeftAttendFixGazeRightAttendStimGazeCenterFSAttendStimGazeCenterAttendStimGazeLeftAttendStimGazeRight,https: // github.com/OpenNeuroDatasets/ds004091
+37,ds004086,Triple Dissociation Revisited,8.68GB,,MRI,RecogConf,https: // github.com/OpenNeuroDatasets/ds004086
+38,ds004085,sEEG Forced Two-Choice Task,12.33GB,26 - 47,iEEGMRI,SlowFast,https: // github.com/OpenNeuroDatasets/ds004085
+39,ds004078,A synchronous multimodal neuroimaging dataset to study brain language processing,1.14TB,,MEGMRI,Chinese-RDRrest,https: // github.com/OpenNeuroDatasets/ds004078
+40,ds004075,what_are_we_talking_about,7.39GB,,EEG,context03context09context10context11,https: // github.com/OpenNeuroDatasets/ds004075
+41,ds004073,Comparing language lateralisation using fMRI and fTCD,97.21GB,,MRI,SCPDWCSDWGSG,https: // github.com/OpenNeuroDatasets/ds004073
+42,ds004067,Moral conviction and metacognitive ability shape multiple stages of information processing,100.79GB,,EEG,Sociopolitical Judgment Task,https: // github.com/OpenNeuroDatasets/ds004067
+43,ds004064,Queensland Twin IMaging (QTIM),15.22GB,12 - 30,MRI,,https: // github.com/OpenNeuroDatasets/ds004064
+44,ds004056,Goal-directed motor task,119.7GB,19 - 32,MRI,GDMotor,https: // github.com/OpenNeuroDatasets/ds004056
+45,ds004044,WholebodySomatotopicMapping,406.69GB,,,,https: // github.com/OpenNeuroDatasets/ds004044
+46,ds004043,The time-course of feature-based attention effects dissociated from temporal expectation and target-related processes,30.44GB,,EEG,Temporal expectation,https: // github.com/OpenNeuroDatasets/ds004043
+47,ds004042,FilmFestival,38.86GB,20 - 33,MRI,movierecall,https: // github.com/OpenNeuroDatasets/ds004042
+48,ds004040,Trance channeling EEG study,11.59GB,,EEG,trance,https: // github.com/OpenNeuroDatasets/ds004040
+49,ds004038,TOME-Go2022VestibularMRI,681.98MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds004038
+50,ds004033,Electrode walking study,19.81GB,20 - 28,EEG,mixed,https: // github.com/OpenNeuroDatasets/ds004033
+51,ds004024,"TMS-EEG-MRI-fMRI-DWI data on paired associative stimulation and connectivity (Shirley Ryan AbilityLab, Chicago, IL)",1021.22GB,,EEGMRI,ccPASrestspTMSRest,https: // github.com/OpenNeuroDatasets/ds004024
+52,ds004022,Multimodal EEG and fNIRS Biosignal Acquisition during Motor Imagery Tasks in Patients with Orthopedic Impairment,634.93MB,48 - 83,EEG,Motor Imagery,https: // github.com/OpenNeuroDatasets/ds004022
+53,ds004021,Visuomotor Rotation Adaptation Experiment,24.37GB,,MRI,Resting StateVisuomotor Rotation TaskWashout Task,https: // github.com/OpenNeuroDatasets/ds004021
+54,ds004019,Effect of obesity on arithmetic processing in preteens with high and low math skills. An event-related potentials study,17.28GB,,EEG,Math task,https: // github.com/OpenNeuroDatasets/ds004019
+55,ds004018,EEG recordings for 200 object images presented in RSVP sequences at 5Hz or 20Hz,10.56GB,18 - 38,EEG,rsvp,https: // github.com/OpenNeuroDatasets/ds004018
+56,ds004015,Attended speaker paradigm (cEEGrid data),6.4GB,18 - 33,EEG,AttendedSpeakerParadigmcEEGridAttention,https: // github.com/OpenNeuroDatasets/ds004015
+57,ds004011,The nature of neural object representations during dynamic occlusion,257.68GB,22 - 41,MEG,occlusion,https: // github.com/OpenNeuroDatasets/ds004011
+58,ds004010,MAVIS,23.14GB,,EEG,MAVIS,https: // github.com/OpenNeuroDatasets/ds004010
+59,ds004009,Abstract-Category-Signal,8.9GB,,MRI,memsampexemplarLocalisermotionLocaliser,https: // github.com/OpenNeuroDatasets/ds004009
+60,ds004007,High-order areas and auditory cortex both represent the high-level event structure of music,149.93GB,,MRI,Listen,https: // github.com/OpenNeuroDatasets/ds004007
+61,ds004006,Increasing stimulus similarity drives nonmonotonic representational change in hippocampus,110.45GB,18 - 35,MRI,AB PairsRandom Ordered,https: // github.com/OpenNeuroDatasets/ds004006
+62,ds004000,Fribourg Ultimatum Game in Schizophrenia Study,22.5GB,,EEG,responder,https: // github.com/OpenNeuroDatasets/ds004000
+63,ds003993,Inter-individual deep image reconstruction,14.6GB,,MRI,perceptionArtificialImageperceptionNaturalImageTest,https: // github.com/OpenNeuroDatasets/ds003993
+64,ds003990,fastVsSlowERtactile7T,7.23GB,,MRI,ERSlowPEBackwardPEForwardERFast,https: // github.com/OpenNeuroDatasets/ds003990
+65,ds003989,"Structural, diffusion and rs-functional MRI data in Macaque Monkeys",1.76GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds003989
+66,ds003988,The Reading Brain Project L2 Adults,63.95GB,,MRI,read taskrest,https: // github.com/OpenNeuroDatasets/ds003988
+67,ds003987,EEG: Amphetamine trials 5CCPT and Probabilistic Learning,26.41GB,18 - 35,EEG,5CCPTxPSTxAmphetamine,https: // github.com/OpenNeuroDatasets/ds003987
+68,ds003974,The Reading Brain Project L1 Adults,46.8GB,,MRI,read taskrest,https: // github.com/OpenNeuroDatasets/ds003974
+69,ds003972,Body Motor,3.62GB,20 - 30,MRI,Body Motor,https: // github.com/OpenNeuroDatasets/ds003972
+70,ds003969,Meditation vs thinking task,54.46GB,22 - 74,EEG,mixed,https: // github.com/OpenNeuroDatasets/ds003969
+71,ds003967,7TAMIbrain,1.1GB,19 - 45,MRI,,https: // github.com/OpenNeuroDatasets/ds003967
+72,ds003965,NI-edu-data-minimal,16.41GB,,MRI,faceflocBLOCKED,https: // github.com/OpenNeuroDatasets/ds003965
+73,ds003959,Soma and Neurite Density MRI (SANDI) of the in-vivo mouse brain,5.33GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds003959
+74,ds003950,ScenePerceptionAndParallelism,79.35GB,,MRI,bowtiefporunwholebrain,https: // github.com/OpenNeuroDatasets/ds003950
+75,ds003949,Lausanne_TOF-MRA_Aneurysm_Cohort,186.74GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds003949
+76,ds003947,EEG: First Episode Psychosis vs. Control Resting Task 2,12.54GB,14 - 38,EEG,rest,https: // github.com/OpenNeuroDatasets/ds003947
+77,ds003944,EEG: First Episode Psychosis vs. Control Resting Task 1,6.15GB,12 - 35,EEG,Rest,https: // github.com/OpenNeuroDatasets/ds003944
+78,ds003929,Rat_rest_awake,593.2MB,3 - 3,MRI,ep2d_fid_400scans,https: // github.com/OpenNeuroDatasets/ds003929
+79,ds003928,Rat_rest_standardRAT,558.15MB,3 - 3,MRI,ep2d_fid_1000scans,https: // github.com/OpenNeuroDatasets/ds003928
+80,ds003927,Informative neural representations of unseen contents during higher-order processing in human brains and deep artificial networks,142.81GB,26 - 32,MRI,recog,https: // github.com/OpenNeuroDatasets/ds003927
+81,ds003922,Multisensory Correlation Detector,75.7GB,,MEGMRI,mcdrestnoise,https: // github.com/OpenNeuroDatasets/ds003922
+82,ds003900,TractoInferno,363.7GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds003900
+83,ds003892,Loss and enhancement of layer-selective signals in geniculostriate and corticotectal pathways of adult human amblyopia,4.47GB,,MRI,MPlocLR,https: // github.com/OpenNeuroDatasets/ds003892
+84,ds003887,Capacity for movement is an organisational principle in object representations: EEG data from Experiment 2,80.66GB,18 - 26,EEG,movement,https: // github.com/OpenNeuroDatasets/ds003887
+85,ds003885,Capacity for movement is an organisational principle in object representations: EEG data from Experiment 1,82.19GB,18 - 26,EEG,movement,https: // github.com/OpenNeuroDatasets/ds003885
+86,ds003877,BrainMorphometry_DiminishedGrowth_BEANstudy_2021,992.86MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds003877
+87,ds003872,The Reading Brain Project L2 Adults,63.92GB,,MRI,restread task,https: // github.com/OpenNeuroDatasets/ds003872
+88,ds003871,Resting-state for 34 younger and 28 older adults,4.05GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds003871
+89,ds003858,Monetary Incentive Delay task,7.83GB,18 - 26,MRI,MID,https: // github.com/OpenNeuroDatasets/ds003858
+90,ds003851,Category-biased neural representations form spontaneously during learning that emphasizes memory for specific instances,20.49GB,18 - 30,MRI,train,https: // github.com/OpenNeuroDatasets/ds003851
+91,ds003850,Next Gen VASO data at <0.1 micro liter voxels for ISMRM 2022,16.74GB,,MRI,vis,https: // github.com/OpenNeuroDatasets/ds003850
+92,ds003849,Individual differences in frontoparietal plasticity in humans,33.07GB,,MRI,nbackrestnumber,https: // github.com/OpenNeuroDatasets/ds003849
+93,ds003848,Dataset Clinical Epilepsy iEEG to BIDS - RESPect_longterm_iEEG,99.26GB,14 - 46,iEEGMRI,task-SPESclintask-Sleeptask-sleeptask-slawtranstask-CHOCS1task-Rest,https: // github.com/OpenNeuroDatasets/ds003848
+94,ds003846,Prediction Error,12.11GB,18 - 34,EEG,PredError,https: // github.com/OpenNeuroDatasets/ds003846
+95,ds003844,Dataset Clinical Epilepsy iEEG to BIDS -RESPect_intraoperative_iEEG,2.6GB,,iEEG,task-acute,https: // github.com/OpenNeuroDatasets/ds003844
+96,ds003838,"EEG, pupillometry, ECG and photoplethysmography, and behavioral data in the digit span task and rest",253.29GB,18 - 44,EEG,mixed,https: // github.com/OpenNeuroDatasets/ds003838
+97,ds003835,PE-Update,12.83GB,18 - 27,MRI,restvideos,https: // github.com/OpenNeuroDatasets/ds003835
+98,ds003834,Shared neural codes for visual and semantic information about familiar faces in a common representational space,34.78GB,25 - 31,MRI,fam1backstr1backlocalizer,https: // github.com/OpenNeuroDatasets/ds003834
+99,ds003831,Cognitive Control Theoretic Mechanisms of Real-time fMRI-Guided Neuromodulation (CTM),30.11GB,18 - 64,MRI,identifymodulaterest,https: // github.com/OpenNeuroDatasets/ds003831
+100,ds003830,resting state fMRI of 17 idiopathic epileptic dogs and 20 healthy control dogs,8.48GB,,MRI,resting,https: // github.com/OpenNeuroDatasets/ds003830
+101,ds003826,"Structural (t1) images of 136 young healthy adults; study of effects of chronotype, sleep quality and daytime sleepiness on brain structure.",1.18GB,18 - 35,MRI,,https: // github.com/OpenNeuroDatasets/ds003826
+102,ds003825,"Human electroencephalography recordings from 50 subjects for 22,248 images from 1,854 object concepts",55.34GB,17 - 30,EEG,rsvp,https: // github.com/OpenNeuroDatasets/ds003825
+103,ds003823,Heart rate variability biofeedback training and emotion regulation,116.82GB,,MRI,emotionRegulationrest,https: // github.com/OpenNeuroDatasets/ds003823
+104,ds003822,EEG: Probabilistic Learning with Affective Feedback: Exp #1,5.82GB,18 - 36,EEG,ProbabilisticSelection,https: // github.com/OpenNeuroDatasets/ds003822
+105,ds003816,The Effect of Buddhism Derived Loving Kindness Meditation on Modulating EEG: Long-term and Short-term Effect,53.97GB,,EEG,LKMSelfPostRestingLKMOtherVisualizeOtherPreRestingVisualizeSelfVisualotherVisualself,https: // github.com/OpenNeuroDatasets/ds003816
+106,ds003812,spatial_frequency_preferences,91.09GB,22 - 35,MRI,sfprescaled,https: // github.com/OpenNeuroDatasets/ds003812
+107,ds003810,Motor Imagery vs Rest - Low-Cost EEG System,69.31MB,20 - 30,EEG,MIvsRestRUN2MIvsRestRUN3MIvsRestRUN0MIvsRestRUN1MIvsRestRUN4,https: // github.com/OpenNeuroDatasets/ds003810
+108,ds003805,Multisensory Gamma Entrainment,16.96MB,,EEG,MultisensoryGammaEntrainment,https: // github.com/OpenNeuroDatasets/ds003805
+109,ds003801,Neural Tracking to go,1.15GB,20 - 40,EEG,NeuralTrackingToGo,https: // github.com/OpenNeuroDatasets/ds003801
+110,ds003800,Auditory Gamma Entrainment,363.75MB,,EEG,AuditoryGammaEntrainmentRest,https: // github.com/OpenNeuroDatasets/ds003800
+111,ds003799,A Two-Week Running Intervention Reduces Symptoms Related to Depression and Increases Hippocampal Volume in Young Adults,5.24GB,19 - 33,MRI,,https: // github.com/OpenNeuroDatasets/ds003799
+112,ds003798,Caltech Conte Center - A multimodal data resource for exploring social cognition and decision-making.,474.84GB,,MRI,restbangpixar,https: // github.com/OpenNeuroDatasets/ds003798
+113,ds003791,Sniffing the Human Body-Volatile Hexadecanal Blocks Aggression in Men but Triggers Aggression in Women,36.85GB,,MRI,PSAP,https: // github.com/OpenNeuroDatasets/ds003791
+114,ds003787,NYU Retinotopy Dataset,260.58GB,20 - 49,MRI,prf,https: // github.com/OpenNeuroDatasets/ds003787
+115,ds003782,Neural Correlates of Effort-Based Valuation Under Risk,97.35GB,,MRI,efforttrainingprobabilitymixedgamblesprobeeffortmixedgambles,https: // github.com/OpenNeuroDatasets/ds003782
+116,ds003778,Adaptive memory distortions are predicted by feature representations in parietal cortex,96.07GB,,MRI,perceptionretrieval,https: // github.com/OpenNeuroDatasets/ds003778
+117,ds003777,"Temporal SNR optimization through RF coil combination in fMRI: The more, the better? - DATASET",21.79GB,,MRI,locAPSTARClocAPSTARCtsmlocAPcovSoSlocPASoS5vollocAPSTARCps,https: // github.com/OpenNeuroDatasets/ds003777
+118,ds003775,SRM Resting-state EEG,20.71GB,17 - 71,EEG,resteyesc,https: // github.com/OpenNeuroDatasets/ds003775
+119,ds003774,Music Listening- Genre EEG dataset (MUSIN-G),10.12GB,,EEG,MusicListening,https: // github.com/OpenNeuroDatasets/ds003774
+120,ds003773,OpenNeuroPET Test Data Set,2.86GB,3,PET,SB,https: // github.com/OpenNeuroDatasets/ds003773
+121,ds003772,Functionally dissociable influences on learning rate in a dynamic environment,6.41GB,18 - 30,MRI,change-point helicopter fmri,https: // github.com/OpenNeuroDatasets/ds003772
+122,ds003770,Depression Treatment by Medial Prefrontal Real-Time fMRI Neurofeedback,7.65GB,20 - 46,MRI,rt-fmri regulation of medial prefrontal cortex,https: // github.com/OpenNeuroDatasets/ds003770
+123,ds003768,Simultaneous EEG and fMRI signals during sleep from humans,86.46GB,,EEGMRI,restsleep,https: // github.com/OpenNeuroDatasets/ds003768
+124,ds003766,A resource for assessing dynamic binary choices in the adult brain using EEG and mouse-tracking,152.77GB,18 - 33,EEG,imagechoicefoodchoicewordchoiceresting,https: // github.com/OpenNeuroDatasets/ds003766
+125,ds003764,Neural dynamics underlying the acquisition of distinct auditory category structures,13.64GB,,MRI,categorization,https: // github.com/OpenNeuroDatasets/ds003764
+126,ds003763,Interoception during aging: The heartbeat detection task,2.56GB,,MRI,heart,https: // github.com/OpenNeuroDatasets/ds003763
+127,ds003758,Dynamic representation of the subjective value of information,25.94GB,18 - 28,MRI,beads,https: // github.com/OpenNeuroDatasets/ds003758
+128,ds003754,Conscious-SEEG-Dataset,54.43GB,1 - 35,iEEG,ana2concon2ana,https: // github.com/OpenNeuroDatasets/ds003754
+129,ds003753,EEG: Probabilistic Learning with Affective Feedback: Exp #2,4.62GB,18 - 27,EEG,ProbabilisticSelection,https: // github.com/OpenNeuroDatasets/ds003753
+130,ds003752,LFContrast,50.71GB,,MRI,LFContrast,https: // github.com/OpenNeuroDatasets/ds003752
+131,ds003751,Dataset on Emotion with Naturalistic Stimuli (DENS),4.46GB,19 - 26,EEG,Emotion,https: // github.com/OpenNeuroDatasets/ds003751
+132,ds003745,Social Reward Processing and Decision Making in Younger and Older Adults,10.87GB,18 - 80,MRI,trustEconomic Trust Game,https: // github.com/OpenNeuroDatasets/ds003745
+133,ds003739,Perturbed beam-walking task,10.94GB,18 - 34,EEG,mixed,https: // github.com/OpenNeuroDatasets/ds003739
+134,ds003721,A naturalistic paradigm to investigate post-encoding neural activation patterns in relation to subsequent voluntary and intrusive recall of distressing events,102.53GB,18 - 35,MRI,BIFilmReact,https: // github.com/OpenNeuroDatasets/ds003721
+135,ds003720,Music Genre fMRI Dataset,43.33GB,,MRI,TestTraining,https: // github.com/OpenNeuroDatasets/ds003720
+136,ds003717,Visual and audiovisual speech perception associated with increased functional connectivity between sensory and motor regions,59.99GB,18 - 34,MRI,SESS01SESS03SESS06SESS02SESS05SESS04,https: // github.com/OpenNeuroDatasets/ds003717
+137,ds003716,Subcortical DMN functional connectivity,127.63MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds003716
+138,ds003715,Visual and auditory brain areas share a representational structure that supports emotion perception: fMRI data,45.13GB,,T1wboldevents,viewing,https: // github.com/OpenNeuroDatasets/ds003715
+139,ds003714,Test,1.13GB,,MRI,meditation,https: // github.com/OpenNeuroDatasets/ds003714
+140,ds003711,The Contributionsof Eye Gaze Fixations and Target-Lure Similarity to Behavioral and fMRI Indices of Pattern Separation and Pattern Completion,29.26GB,18 - 28,MRI,MST,https: // github.com/OpenNeuroDatasets/ds003711
+141,ds003710,APPLESEED Example Dataset,10.18GB,,EEG,APPLESEED example,https: // github.com/OpenNeuroDatasets/ds003710
+142,ds003709,NIMH-CompyPsych MMI,6.61GB,12 - 18,MRI,MMI,https: // github.com/OpenNeuroDatasets/ds003709
+143,ds003708,Basis profile curve identification to understand electrical stimulation effects in human brain networks,620.16MB,,iEEG,rest,https: // github.com/OpenNeuroDatasets/ds003708
+144,ds003707,Abrupt hippocampal remapping signals resolution of memory interference.,80.22GB,,MRI,objects old new identificationscenes old new identification,https: // github.com/OpenNeuroDatasets/ds003707
+145,ds003705,negative_template,15.26GB,20 - 33,MRI,vissearch,https: // github.com/OpenNeuroDatasets/ds003705
+146,ds003703,Frequency Tagging of Syntactic Structure or Lexical Properties,194.51GB,18 - 38,MEG,listeningToSpeechrest,https: // github.com/OpenNeuroDatasets/ds003703
+147,ds003702,Social Memory cuing,60.93GB,,EEG,Social Memory cuing,https: // github.com/OpenNeuroDatasets/ds003702
+148,ds003701,Concrete Permuted Rule Operations,418.4GB,18 - 38,MRI,cprorest,https: // github.com/OpenNeuroDatasets/ds003701
+149,ds003696,Action-related object pairs - fMRI dataset,21.5GB,19 - 30,boldeventsT1w,affordance,https: // github.com/OpenNeuroDatasets/ds003696
+150,ds003694,MEGMEM,218.47GB,,MEG,MEM,https: // github.com/OpenNeuroDatasets/ds003694
+151,ds003690,"EEG, ECG and pupil data from young and older adults: rest and auditory cued reaction time tasks",21.46GB,19 - 70,EEG,gonogopassivesimpleRT,https: // github.com/OpenNeuroDatasets/ds003690
+152,ds003688,Open multimodal iEEG-fMRI dataset from naturalistic stimulation with a short audiovisual film,15.3GB,5 - 55,iEEGMRI,filmrest,https: // github.com/OpenNeuroDatasets/ds003688
+153,ds003684,Finger sequence planning,36.75GB,20 - 31,T1mapT1wboldeventssbreffieldmap,dspTODO: full task name for dsp,https: // github.com/OpenNeuroDatasets/ds003684
+154,ds003682,Model-based aversive learning in humans is supported by preferential task state reactivation,302.04GB,,MEG,AversiveLearningReplay,https: // github.com/OpenNeuroDatasets/ds003682
+155,ds003673,Yale Resting State fMRI/Pupillometry: Arousal Study,29.76GB,,MRI,Rest,https: // github.com/OpenNeuroDatasets/ds003673
+156,ds003670,"Dataset of Concurrent EEG, ECG, and Behavior with Multiple Doses of transcranial Electrical Stimulation - BIDS",97.53GB,19 - 43,EEG,GXtESCTT,https: // github.com/OpenNeuroDatasets/ds003670
+157,ds003669,Confidence in Detection and Discrimination,16.56GB,,MRI,visual detection and discrimination,https: // github.com/OpenNeuroDatasets/ds003669
+158,ds003661,Sharpening of Hierarchical Visual Feature Representations of Blurred Images,40.36GB,,MRI,testCategorytestNoCategorytraining,https: // github.com/OpenNeuroDatasets/ds003661
+159,ds003655,VerbalWorkingMemory,20.26GB,,EEG,VerbalWorkingMemory,https: // github.com/OpenNeuroDatasets/ds003655
+160,ds003653,Cortical myelin measured by the T1w/T2w ratio in individuals with depressive disorders and healthy controls,4.42GB,19 - 44,MRI,,https: // github.com/OpenNeuroDatasets/ds003653
+161,ds003647,Deciphering the scopolamine rat model by preclinical functional MRI,10.83GB,,MRI,restwhiskeraslwhiskerepi,https: // github.com/OpenNeuroDatasets/ds003647
+162,ds003646,An isotropic EPI database for rat brain resting-state fMRI,15.72GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds003646
+163,ds003645,Face processing MEEG dataset with HED annotation,106.32GB,23 - 37,EEGMEGMRI,FacePerception,https: // github.com/OpenNeuroDatasets/ds003645
+164,ds003643,Le Petit Prince: A multilingual fMRI corpus using ecological stimuli,216.94GB,,MRI,lppCNlppENlppFR,https: // github.com/OpenNeuroDatasets/ds003643
+165,ds003642,CEREBRUM-7T: Fast and Fully-volumetric Brain Segmentation of 7 Tesla MR Volumes,335.05MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds003642
+166,ds003639,In-scanner head motion and structural covariance networks,617.47MB,21 - 66,MRI,,https: // github.com/OpenNeuroDatasets/ds003639
+167,ds003638,EEG: Electrophysiological biomarkers of behavioral dimensions from cross-species paradigms,16.31GB,18 - 35,EEG,5CCPTPSTPRBP,https: // github.com/OpenNeuroDatasets/ds003638
+168,ds003634,Finnish Letter-Sound Integration MEG Dataset,72.24GB,,MEGMRI,audiovisual,https: // github.com/OpenNeuroDatasets/ds003634
+169,ds003633,ForrestGump-MEG,154.57GB,19 - 25,MEGMRI,movienoise,https: // github.com/OpenNeuroDatasets/ds003633
+170,ds003626,Inner Speech,24.99GB,,EEG,,https: // github.com/OpenNeuroDatasets/ds003626
+171,ds003620,Runabout: A mobile EEG study of auditory oddball processing in laboratory and real-world conditions,89.23GB,18 - 39,EEG,Oddball,https: // github.com/OpenNeuroDatasets/ds003620
+172,ds003612,The impact of handedness on the neural correlates during kinesthetic motor imagery: a FMRI study,31.18GB,19 - 29,MRI,executionimagery,https: // github.com/OpenNeuroDatasets/ds003612
+173,ds003608,Chinese Character-Sound Integration MEG Dataset,74.41GB,,MEG,audiovisual,https: // github.com/OpenNeuroDatasets/ds003608
+174,ds003606,Differences in Chemo-signaling Compound-Evoked Brain Activity in Male and Female Young Adults: A Pilot Study in the Role of Sexual Dimorphism in Olfactory Chemo-Signaling,29.61GB,,MRI,PheromoneOlfaction,https: // github.com/OpenNeuroDatasets/ds003606
+175,ds003604,"A longitudinal neuroimaging dataset on language processing in children ages 5, 7, and 9 years old",714.28GB,,MRI,Grammaticality TaskSound TaskPlausability TaskMeaning Task,https: // github.com/OpenNeuroDatasets/ds003604
+176,ds003599,White matter deficits in cocaine use disorder V1.0,39.67GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds003599
+177,ds003592,"Neurocognitive aging data release with behavioral, structural, and multi-echo functional MRI measures",103.41GB,18 - 89,MRI,rest,https: // github.com/OpenNeuroDatasets/ds003592
+178,ds003590,Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas,726.43MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds003590
+179,ds003574,Reward biases spontaneous neural reactivation during sleep,17.96GB,18 - 26,MRIEEG,restgameFace-Maze gameRest during sleep with simultaneous EEG,https: // github.com/OpenNeuroDatasets/ds003574
+180,ds003570,EEG: Improvisation and Musical Structures,36.12GB,18 - 42,EEG,AuditoryOddballChords,https: // github.com/OpenNeuroDatasets/ds003570
+181,ds003569,Neural correlates of confusability in recognition of morphologically complex Korean words,3.32GB,19 - 26,MRI,LDT,https: // github.com/OpenNeuroDatasets/ds003569
+182,ds003568,Mood induction in MDD and healthy adolescents,123.42GB,,MEGMRI,mmi3rest,https: // github.com/OpenNeuroDatasets/ds003568
+183,ds003563,Data from: Comprehensive ultrahigh resolution whole brain in vivo MRI dataset as a human phantom,195.81GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds003563
+184,ds003555,Dataset of EEG recordings of pediatric patients with epilepsy based on the 10-20 system,28.27GB,1 - 17,EEG,hfo,https: // github.com/OpenNeuroDatasets/ds003555
+185,ds003554,Visser et al. 2015 Psychoneuroendocrinology,8.52GB,18 - 24,MRI,RepYo1RepYo2,https: // github.com/OpenNeuroDatasets/ds003554
+186,ds003553,"Visser, Scholte & Kindt (2011) Journal of Neuroscience",3.4GB,18 - 31,MRI,FacesHousesTE27,https: // github.com/OpenNeuroDatasets/ds003553
+187,ds003550,"Visser, Scholte, Beemsterboer, & Kindt (2013) Nature Neuroscience",8.88GB,18 - 33,MRI,RepMem1RepMem2B,https: // github.com/OpenNeuroDatasets/ds003550
+188,ds003548,Emotion Category and Face Perception Task Optimized for Multivariate Pattern Analysis,3.51GB,,MRI,"Emotional face perceptionResting state, awake, closed eyes",https: // github.com/OpenNeuroDatasets/ds003548
+189,ds003545,Adolescent language learners,14.13GB,16 - 17,MRI,compL1compLnprodL1prodLn,https: // github.com/OpenNeuroDatasets/ds003545
+190,ds003542,Adult language learners,11.79GB,20 - 66,MRI,compL1compLnprodL1prodLn,https: // github.com/OpenNeuroDatasets/ds003542
+191,ds003540,Which multiband factor should you choose for your resting-state fMRI study? The Emory Multiband Dataset,92.04GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds003540
+192,ds003524,FridayNightLights_Study1,8.77GB,19 - 34,MRI,movie,https: // github.com/OpenNeuroDatasets/ds003524
+193,ds003523,EEG: Visual Working Memory in Acute TBI,37.54GB,18 - 55,EEG,VisualWorkingMemory,https: // github.com/OpenNeuroDatasets/ds003523
+194,ds003522,EEG: Three-Stim Auditory Oddball and Rest in Acute and Chronic TBI,25.36GB,18 - 55,EEG,ThreeStimAuditoryOddball,https: // github.com/OpenNeuroDatasets/ds003522
+195,ds003521,FridayNightLights_Study2,203.03GB,18 - 21,MRI,movie,https: // github.com/OpenNeuroDatasets/ds003521
+196,ds003520,Rat_rest_STZ,4.83GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds003520
+197,ds003519,EEG: Visual Working Memory + Cabergoline Challenge,8.96GB,18 - 26,EEG,VisualWorkingMemory,https: // github.com/OpenNeuroDatasets/ds003519
+198,ds003518,EEG: Simon Conflict w/ Reinforcement + Cabergoline Challenge,39.51GB,18 - 30,EEG,SimonConflict,https: // github.com/OpenNeuroDatasets/ds003518
+199,ds003517,EEG: Continuous gameplay of an 8-bit style video game,6.48GB,18 - 39,EEG,ContinuousVideoGamePlay,https: // github.com/OpenNeuroDatasets/ds003517
+200,ds003516,EEG: Attended Speaker Paradigm (Own Name in Ignored Stream),13.46GB,18 - 50,EEG,AttendedSpeakerParadigmOwnName,https: // github.com/OpenNeuroDatasets/ds003516
+201,ds003511,Evidence supporting a time-limited hippocampal role in retrieving autobiographical memories,30.94GB,20 - 34,MRI,Recall,https: // github.com/OpenNeuroDatasets/ds003511
+202,ds003509,EEG: Simon Conflict in Parkinson's,22.34GB,48 - 84,EEG,SimonConflict,https: // github.com/OpenNeuroDatasets/ds003509
+203,ds003508,Language Learning Aptitude dataset,4.07GB,20 - 27,MRI,,https: // github.com/OpenNeuroDatasets/ds003508
+204,ds003507,fMRI: Audiovisual Valence Congruence,14.37GB,19 - 30,MRI,affect,https: // github.com/OpenNeuroDatasets/ds003507
+205,ds003506,EEG: Reinforcement Learning in Parkinson's,16.21GB,48 - 84,EEG,ReinforcementLearning,https: // github.com/OpenNeuroDatasets/ds003506
+206,ds003505,VEPCON: Source imaging of high-density visual evoked potentials with multi-scale brain parcellations and connectomes,58.17GB,20 - 32,EEGMRI,facesmotion,https: // github.com/OpenNeuroDatasets/ds003505
+207,ds003500,Response inhibition and selective attention in adults and children with and without ADHD,5.34GB,,MRI,"Conjunction Target, 1 and 9 shapes, Feature SelectionConjunction Target, 9 shapes, Response InhibitionConjunction Target, 1 shape, Response InhibitionFeature Target, 1 shape, Response InhibitionFeature Target, 1 and 9 shapes, Feature SelectionFeature Target, 9 shapes, Response Inhibition",https: // github.com/OpenNeuroDatasets/ds003500
+208,ds003499,Developmental change in prefrontal cortex recruitment supports the emergence of value-guided memory,136.21GB,8 - 25,MRI,Frequency-learning Block 1Frequency-learning Block 2Frequency Reports Block 1Frequency Reports Block 2Memory Test Block 1Memory Test Block 2Paired Associates Block 1Paired Associates Block 2,https: // github.com/OpenNeuroDatasets/ds003499
+209,ds003498,interictal iEEG during slow-wave sleep with HFO markings,44.74GB,,iEEG,,https: // github.com/OpenNeuroDatasets/ds003498
+210,ds003495,dStreamUpgrade,67.42GB,,MRI,emomatchingrestingstate,https: // github.com/OpenNeuroDatasets/ds003495
+211,ds003490,EEG: 3-Stim Auditory Oddball and Rest in Parkinson's,5.85GB,48 - 84,EEG,Rest,https: // github.com/OpenNeuroDatasets/ds003490
+212,ds003487,Differential contributions of ventral striatum subregions in the motivational and hedonic components of the affective response to reward,10.68GB,18 - 35,MRI,hedonicPIT,https: // github.com/OpenNeuroDatasets/ds003487
+213,ds003484,Foraging in competitive and hazardous environments,499.89GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds003484
+214,ds003483,Logical reasoning study,68.3GB,,MEG,inductiondeduction,https: // github.com/OpenNeuroDatasets/ds003483
+215,ds003481,Pragmatic Language,22.82GB,,MRI,sarecrestsaepccmpverbs,https: // github.com/OpenNeuroDatasets/ds003481
+216,ds003478,EEG: Depression rest,10.65GB,18 - 24,EEG,Rest,https: // github.com/OpenNeuroDatasets/ds003478
+217,ds003474,EEG: Probabilistic Selection and Depression,16.64GB,18 - 24,EEG,ProbabilisticSelection,https: // github.com/OpenNeuroDatasets/ds003474
+218,ds003470,Target processing in overt serial visual search involves the dorsal attention network: A fixation-based event-related fMRI study.,26.11GB,18 - 27,MRI,multar,https: // github.com/OpenNeuroDatasets/ds003470
+219,ds003469,Speech disfluencies: Neurophysiological aspect in normal population,5.49GB,18 - 39,MRI,rest,https: // github.com/OpenNeuroDatasets/ds003469
+220,ds003468,IQSEC2_sMRI_fMRI,52.4GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds003468
+221,ds003466,Haptic three-dimensional curved surface exploration fMRI dataset,8.05GB,20 - 29,MRI,"motorrest haptic three-dimensional curved surface exploration task and finger somatotopic mapping task, Rest Localizer EPI",https: // github.com/OpenNeuroDatasets/ds003466
+222,ds003465,DMCC55B,456.27GB,19 - 42,MRI,AxcptCuedtsSternStroop,https: // github.com/OpenNeuroDatasets/ds003465
+223,ds003464,Mouse_opto_INS,2.75GB,,MRI,optorest,https: // github.com/OpenNeuroDatasets/ds003464
+224,ds003463,In vivo multi-parametric manganese-enhanced MRI for detecting senile plaques in rodent models of Alzheimer’s disease,4.17GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds003463
+225,ds003459,Component processes of word reading in adults and children,5.91GB,,MRI,Auditory Orthography JudgementAuditory Phonology JudgementAuditory Semantic JudgementAuditory Syntax Judgement,https: // github.com/OpenNeuroDatasets/ds003459
+226,ds003458,EEG: Three armed bandit gambling task,4.72GB,18 - 24,EEG,ThreeArmedBandit,https: // github.com/OpenNeuroDatasets/ds003458
+227,ds003455,"Protecting the Aging Brain, Case-Study",22.1GB,,MRI,restabuni,https: // github.com/OpenNeuroDatasets/ds003455
+228,ds003454,Individual Differences in Fluid Reasoning and RAPM-like Problem Solving,4.01GB,18 - 31,MRI,RAPM Task,https: // github.com/OpenNeuroDatasets/ds003454
+229,ds003453,"Protecting the Aging Brain, Bolus-Study",188.08GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds003453
+230,ds003452,DMCC13benchmark,204.2GB,29 - 39,MRI,AxcptCuedtsRestSternStroop,https: // github.com/OpenNeuroDatasets/ds003452
+231,ds003446,newbi4fmri2020 Variant9 7T,1.33GB,,MRI,newbi4fmri_VAR9_7T,https: // github.com/OpenNeuroDatasets/ds003446
+232,ds003445,newbi4fmri2020 Variant8 Resting State,1.78GB,,MRI,newbi4fmri_VAR8_Resting-State,https: // github.com/OpenNeuroDatasets/ds003445
+233,ds003444,newbi4fmri2020 Variant7 Prosopagnosia,1.53GB,,MRI,newbi4fmri_VAR7_Prosopagnosia,https: // github.com/OpenNeuroDatasets/ds003444
+234,ds003443,newbi4fmri2020 Variant6 Adaptation,1.42GB,,MRI,newbi4fmri_VAR6_Adaptation,https: // github.com/OpenNeuroDatasets/ds003443
+235,ds003442,newbi4fmri2020 Variant5 Suboptimal Event Related,1.35GB,,MRI,newbi4fmri_VAR5_Suboptimal-Event-Related,https: // github.com/OpenNeuroDatasets/ds003442
+236,ds003441,newbi4fmri2020 Variant4 Motion,2.53GB,,MRI,newbi4fmri_VAR4_Motion,https: // github.com/OpenNeuroDatasets/ds003441
+237,ds003440,newbi4fmri2020 Variant3 Caffeine,815.49MB,,MRI,newbi4fmri_VAR3_Caffeine,https: // github.com/OpenNeuroDatasets/ds003440
+238,ds003439,newbi4fmri2020 Variant2 Suboptimal Slow Event Related,1.36GB,,MRI,newbi4fmri_VAR2_Baselines-and-Slow-Event-Related,https: // github.com/OpenNeuroDatasets/ds003439
+239,ds003438,newbi4fmri2020 Variant1 Suboptimal Block Designs,1.31GB,,MRI,newbi4fmri_VAR1_Suboptimal-Block-Designs,https: // github.com/OpenNeuroDatasets/ds003438
+240,ds003437,Protecting the Aging Brain - Diet-Study,171.89GB,,MRI,motorrestspanav,https: // github.com/OpenNeuroDatasets/ds003437
+241,ds003436,Agreeableness personality trait and social information encoding,5.62GB,18 - 34,MRI,ANIM,https: // github.com/OpenNeuroDatasets/ds003436
+242,ds003434,newbi4fmri2020 Main Experiment,18.65GB,,MRI,newbi4fmri_MainExp,https: // github.com/OpenNeuroDatasets/ds003434
+243,ds003433,newbi4fmri2020 Localizer,7.15GB,,MRI,newbi4fmri_Localizer,https: // github.com/OpenNeuroDatasets/ds003433
+244,ds003430,Attentionally modulated subjective images reconstructed from brain activity,105.01GB,,MRI,attentionNaturalTestImageperceptionNaturalImageTrainingGODTraindeepreconGODtrain,https: // github.com/OpenNeuroDatasets/ds003430
+245,ds003427,Effects of Phase Regression on High-Resolution Functional MRI of the Primary Visual Cortex,8.77GB,,MRI,8Hz Contrast Reversing Checkerboard,https: // github.com/OpenNeuroDatasets/ds003427
+246,ds003425,Mental imagery can generate and regulate acquired differential fear conditioned reactivity,6.1GB,,MRI,learningprelearningtrainingringwedgeregulate,https: // github.com/OpenNeuroDatasets/ds003425
+247,ds003424,Identification of an Amygdala-Thalamic Circuit That Acts as a Central Gain Mechanism in Taste Perception,49.6GB,18 - 37,MRI,resttaste,https: // github.com/OpenNeuroDatasets/ds003424
+248,ds003421,HD-EEGtask(Dataset 2),76.77GB,20 - 40,EEG,PicturesNaming,https: // github.com/OpenNeuroDatasets/ds003421
+249,ds003420,HD-EEGtask(Dataset 1),90.44GB,19 - 40,EEG,,https: // github.com/OpenNeuroDatasets/ds003420
+250,ds003417,3D Mapping of Neurofibrillary Tangle Burden in the Human Medial Temporal Lobe,7.19GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds003417
+251,ds003416,"MASiVar: Multisite, Multiscanner, and Multisubject Acquisitions for Studying Variability in Diffusion Weighted Magnetic Resonance Imaging",118.1GB,5 - 47,MRI,,https: // github.com/OpenNeuroDatasets/ds003416
+252,ds003404,Brain Network Mechanisms of Visual Shape Completion,15.25GB,,T1wT2wepiboldsbrefevents,,https: // github.com/OpenNeuroDatasets/ds003404
+253,ds003401,ASRT (alternating serial reaction time),6.65GB,18 - 28,T1wboldevents,asrtAternating Serial Reaction Time task,https: // github.com/OpenNeuroDatasets/ds003401
+254,ds003400,Dataset Clinical Epilepsy iEEG to BIDS - RESPect_intraoperative_iEEG,4.47GB,3 - 16,iEEG,task-acute,https: // github.com/OpenNeuroDatasets/ds003400
+255,ds003399,Dataset Clinical Epilepsy iEEG to BIDS - RESPect_longterm_iEEG,99.26GB,14 - 46,iEEGMRI,task-Sleeptask-SPESclintask-sleeptask-CHOCS1task-Resttask-slawtrans,https: // github.com/OpenNeuroDatasets/ds003399
+256,ds003397,Monash DaCRA fPET-fMRI,303.96GB,18 - 20,MRIPET,restcheckerboardFlashing checkerboard,https: // github.com/OpenNeuroDatasets/ds003397
+257,ds003392,NeuroSpin hMT+ Localizer DATA (MEG & aMRI),10.08GB,,MEGMRI,localizernoise,https: // github.com/OpenNeuroDatasets/ds003392
+258,ds003382,Monash vis-fPET-fMRI,38.87GB,18 - 48,MRIPET,fullcheckerhalfcheckerrestcheckerboardrest fPET and fMRI,https: // github.com/OpenNeuroDatasets/ds003382
+259,ds003381,Estimation of in-scanner head pose changes during structural MRI using a convolutional neural network trained on eye tracker video,7.73GB,21 - 66,MRI,TASK,https: // github.com/OpenNeuroDatasets/ds003381
+260,ds003380,"Corticothalamic communication under analgesia, sedation and gradual ischemia: a multimodal model of controlled gradual cerebral ischemia in pig",1.43GB,,EEG,,https: // github.com/OpenNeuroDatasets/ds003380
+261,ds003374,Dataset of neurons and intracranial EEG from human amygdala during aversive dynamic visual stimulation,297.05MB,19 - 48,iEEG,jokeit,https: // github.com/OpenNeuroDatasets/ds003374
+262,ds003367,Ascending arousal network connectivity during recovery from traumatic coma,1.09GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds003367
+263,ds003358,Brain Dynamics During Flow Experiences,22.22GB,19 - 53,T1wboldevents,game,https: // github.com/OpenNeuroDatasets/ds003358
+264,ds003357,The influence of heart rate variability biofeedback on cardiac regulation and functional brain connectivity,53.5GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds003357
+265,ds003352,MEG Color,214.29GB,17 - 26,MEG,ColorSpirals,https: // github.com/OpenNeuroDatasets/ds003352
+266,ds003346,SUDMEX_CONN: The Mexican dataset of cocaine use disorder patients.,13.18GB,18 - 50,MRI,rest,https: // github.com/OpenNeuroDatasets/ds003346
+267,ds003345,PenaltyKik.02,15.3GB,,MRI,PenaltyKik,https: // github.com/OpenNeuroDatasets/ds003345
+268,ds003343,Disentangling the percepts of illusory movement and sensory stimulation during tendon vibration in the EEG,663.5MB,20 - 32,EEG,fps,https: // github.com/OpenNeuroDatasets/ds003343
+269,ds003342,Hand-selective visual regions represent how to grasp 3D tools for use: brain decoding during real actions,7.27GB,,MRI,grasplocaliser,https: // github.com/OpenNeuroDatasets/ds003342
+270,ds003340,Tasting Pictures: Viewing Images of Foods Evokes Taste-Quality-Specific Activity in Gustatory Insular Cortex,61.95GB,21 - 45,MRI,Food PicturesTaste Mapping,https: // github.com/OpenNeuroDatasets/ds003340
+271,ds003338,"Behavioral, physiological, and neural signatures of surprise during naturalistic sports viewing",49.26GB,18 - 35,MRI,subjects recall the end of three basketball gamessubjects view the end of three basketball gamesnone,https: // github.com/OpenNeuroDatasets/ds003338
+272,ds003325,In vivo T1w MRI of a TDP-43 knock-in mouse model of ALS-FTD,59.47MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds003325
+273,ds003242,"MRI data during a Cue Induced Craving task following food fasting, social isolation and baseline (within-subject design)",26.85GB,18 - 40,MRI,CICmidlocTODO: full task name for CICTODO: full task name for midloc,https: // github.com/OpenNeuroDatasets/ds003242
+274,ds003233,Think Like an Expert,27.13GB,18 - 31,MRI,wk1_vid1wk1_vid2wk1_vid4wk1_vid3wk2_vid1wk1_vid5wk2_vid2wk2_vid3wk3_vid3wk3_vid2wk3_vid1wk3_vid4wk4_vid2wk4_vid3wk4_vid4wk4_vid1wk5_vid1wk5_vid2wk5_vid3wk5_vid4wk6_wk1recapwk6_placementwk6_wk2recapwk6_wk3recapwk5_vid5wk6_wk4recapwk6_wk5recap,https: // github.com/OpenNeuroDatasets/ds003233
+275,ds003216,Acquisition and processing methods of whole-brain layer-fMRI VASO and BOLD: The Kenshu dataset,530.61GB,29,MRI,testmovietapping,https: // github.com/OpenNeuroDatasets/ds003216
+276,ds003195,Placebo Neuroepo multisession,121.08MB,,EEG,task placebo pretask placebo 6m,https: // github.com/OpenNeuroDatasets/ds003195
+277,ds003194,Neuroepo multisession,189.15MB,,EEG,task 6m nepo task pre nepo,https: // github.com/OpenNeuroDatasets/ds003194
+278,ds003192,EuskalIBUR,74.66GB,25 - 40,MRI,Breath-holds,https: // github.com/OpenNeuroDatasets/ds003192
+279,ds003190,Assesment of the visual stimuli properties in P300 paradigm,1.27GB,,channelseegevents,cnos,https: // github.com/OpenNeuroDatasets/ds003190
+280,ds003176,Neurophysiological indicators of internal attention: An fMRI–eye-tracking coregistration study,24.59GB,18 - 34,MRI,EyeMag,https: // github.com/OpenNeuroDatasets/ds003176
+281,ds003171,Modeling an auditory stimulated brain under altered states of consciousness using the generalized ising model,4.5GB,,MRI,audioawakeaudiodeepaudiorecoveryrestaudiolightrestrecoveryrestlightaudiorestdeep,https: // github.com/OpenNeuroDatasets/ds003171
+282,ds003170,changepoint fmri,33.34GB,,MRI,change-point fmri,https: // github.com/OpenNeuroDatasets/ds003170
+283,ds003151,Stress-associated brain activation across the hormonal contraceptive cycle,3.31GB,,MRI,n-back,https: // github.com/OpenNeuroDatasets/ds003151
+284,ds003148,Neuroimaging evidence for network sampling theory of human intelligence,22.51GB,,MRI,FeatureDigitOddMLGrammaticalPolygonPairedSOSSpatialTreeTroubleRotation,https: // github.com/OpenNeuroDatasets/ds003148
+285,ds003146,vocal task,5.28GB,,MRI,Vocal music block-design fMRI,https: // github.com/OpenNeuroDatasets/ds003146
+286,ds003145,BOLD Verb Generation,29.26GB,,MRI,verbgen,https: // github.com/OpenNeuroDatasets/ds003145
+287,ds003136,Postnatal Affective MRI Dataset,2.89GB,19 - 33,MRI,Neural Reactivity to Own- and Other-Infant AffectObserving and Labeling Affective Faces,https: // github.com/OpenNeuroDatasets/ds003136
+288,ds003126,Reading-related functional activity in children with isolated spelling deficits and dyslexia,3.84GB,8 - 13,MRI,read,https: // github.com/OpenNeuroDatasets/ds003126
+289,ds003114,How ovarian hormones influence the behaviroal activation and inhibition system through the dopamine pathway,2.24GB,19 - 28,MRI,BAS/BIS,https: // github.com/OpenNeuroDatasets/ds003114
+290,ds003104,MNE-somato-data-bids dataset (anonymized),725.96MB,,MEGMRI,somato,https: // github.com/OpenNeuroDatasets/ds003104
+291,ds003103,Consensus-seeking and conflict-resolving: an fMRI study on college couples’ shopping interaction,4.76GB,,MRI,cpshop,https: // github.com/OpenNeuroDatasets/ds003103
+292,ds003098,ABCD protocol for BCBP,16.45MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds003098
+293,ds003097,AOMIC-ID1000,1.16TB,19 - 26,MRI,moviewatching,https: // github.com/OpenNeuroDatasets/ds003097
+294,ds003096,Valuation of peers' safe choices is associated with substance-naivete in adolescents,4.6GB,,MRI,pinf,https: // github.com/OpenNeuroDatasets/ds003096
+295,ds003095,Polarization Dataset,16.43GB,19 - 63,MRI,run1run2run4run3,https: // github.com/OpenNeuroDatasets/ds003095
+296,ds003094,Analogical reasoning sequential design fMRI,35.28GB,,MRI,Analogy,https: // github.com/OpenNeuroDatasets/ds003094
+297,ds003090,fetal-fMRI,205.38MB,,MRI,task-rest,https: // github.com/OpenNeuroDatasets/ds003090
+298,ds003089,Somatosensory phase-encoded bilateral full-body light touch stimulation,2.63GB,,MRI,StartLipStartToe,https: // github.com/OpenNeuroDatasets/ds003089
+299,ds003085,Dynamic intersubject neural synchronization reflects affective responses to sad music,17.19GB,,MRI,restsadlnhappysadsh,https: // github.com/OpenNeuroDatasets/ds003085
+300,ds003083,Brain Correlates of Math Processing in Adults,13.92GB,19 - 30,MRI,Single-Digit MultiplicationNumerosity JudgementSingle-Digit SubtractionRhyming Judgement,https: // github.com/OpenNeuroDatasets/ds003083
+301,ds003082,Auditory Cortex Mapping Dataset,15.5GB,23,MEGMRI,mappingnoise,https: // github.com/OpenNeuroDatasets/ds003082
+302,ds003078,PROBE iEEG,10.95GB,,iEEGMRI,,https: // github.com/OpenNeuroDatasets/ds003078
+303,ds003076,Brain Correlates of Deductive Reasoning in Adults,5.65GB,19 - 30,MRI,Syllogistic ReasoningTransitive Reasoning,https: // github.com/OpenNeuroDatasets/ds003076
+304,ds003061,EEG data from an auditory oddball task,2.31GB,24 - 58,EEG,P300,https: // github.com/OpenNeuroDatasets/ds003061
+305,ds003059,Neural correlates of the LSD experience revealed by multimodal neuroimaging,14.32GB,,MRI,Rest,https: // github.com/OpenNeuroDatasets/ds003059
+306,ds003052,PennMTLAtlas,70.45GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds003052
+307,ds003047,DTI data from 'Fiber architecture in the ventromedial striatum and its relation with the bed nucleus of the stria terminalis',1.5GB,19 - 36,MRI,,https: // github.com/OpenNeuroDatasets/ds003047
+308,ds003043,Dichoptic Magno/Parvo,7.75GB,23 - 46,MRI,exp1exp2exp3exp4,https: // github.com/OpenNeuroDatasets/ds003043
+309,ds003039,free walking study,7.82GB,19 - 32,EEG,neurCorrYoung,https: // github.com/OpenNeuroDatasets/ds003039
+310,ds003037,SUDMEX_TMS: The Mexican dataset of an rTMS clinical trial on cocaine use disorder patients.,11.31GB,18 - 48,MRI,rest,https: // github.com/OpenNeuroDatasets/ds003037
+311,ds003029,Epilepsy-iEEG-Multicenter-Dataset,10.32GB,13 - 59,iEEG,ictal,https: // github.com/OpenNeuroDatasets/ds003029
+312,ds003027,plp_nf1_dMRI_fMRI,61.45GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds003027
+313,ds003020,An fMRI dataset during a passive natural language listening task,130.8GB,21 - 34,MRI,Audio Motor LocalizerAuditory LocalizerCategory LocalizerMotor Localizeradollshouseadventuresinsayingyesavatarexorcismeyespyalternateithicatomfromboyhoodtofatherhoodhaveyoumethimyethangtimehowtodrawbuckinamomentlifelegacyitsaboxodetostepfatherslothstagefrightmyfirstdaywiththeyankeesswimmingwithastronautssoulsnakedthatthingonmyarmtheclosetthatateeverythingwheretheressmoketildeathundertheinfluence,https: // github.com/OpenNeuroDatasets/ds003020
+314,ds003017,"An fMRI dataset in response to ""The Grand Budapest Hotel"", a socially-rich, naturalistic movie",26.04GB,22 - 31,MRI,moviemovie watching task,https: // github.com/OpenNeuroDatasets/ds003017
+315,ds003012,action-in-auctions,65.01GB,18 - 27,MRI,double auction,https: // github.com/OpenNeuroDatasets/ds003012
+316,ds003011,Social Processes Initiative in Neurobiology of the Schizophrenia(s) Traveling Human Phantoms,3.84GB,,MRI,rest eyes closed,https: // github.com/OpenNeuroDatasets/ds003011
+317,ds003007,"Two sessions of resting state with closed eyes for patients with depression in treatment course (NFB, CBT or No treatment groups)",1.79GB,21 - 52,MRI,resting state with closed eyes,https: // github.com/OpenNeuroDatasets/ds003007
+318,ds003004,Imagined Emotion Study,36.05GB,,EEG,ImaginedEmotion,https: // github.com/OpenNeuroDatasets/ds003004
+319,ds002995,Taste Quality Representation in the Human Brain,52.78GB,22 - 48,MRI,Taste Mapping,https: // github.com/OpenNeuroDatasets/ds002995
+320,ds002994,fribblesFMRI_object-value-construction,165.24GB,,MRI,fLocfribBids,https: // github.com/OpenNeuroDatasets/ds002994
+321,ds002982,_test_julien,6.67MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds002982
+322,ds002940,Head-to-Ball Impacts in Collegiate Soccer Players,5.73GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds002940
+323,ds002938,Task-Dependent Effort-Induced Connectivity,6.11GB,18 - 33,MRI,1backeffort1back taskeffort task,https: // github.com/OpenNeuroDatasets/ds002938
+324,ds002936,Neuroharmony sample exanple,71.87MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds002936
+325,ds002908,Human MEG recordings during sequential conflict task,58.28GB,,MEG,mouse,https: // github.com/OpenNeuroDatasets/ds002908
+326,ds002905,simpcomp_rawdata,104.63GB,,MRI,languagelocalizermaintask,https: // github.com/OpenNeuroDatasets/ds002905
+327,ds002898,Monash rsPET-MR,48.89GB,18 - 23,MRIPET,rest,https: // github.com/OpenNeuroDatasets/ds002898
+328,ds002896,Resting State fMRI study of non bothersome tinnitus,3.78GB,,MRI,Rest,https: // github.com/OpenNeuroDatasets/ds002896
+329,ds002893,Auditory-Visual Shift Study,7.7GB,20 - 78,EEG,AuditoryVisualShift,https: // github.com/OpenNeuroDatasets/ds002893
+330,ds002886,Brain Development of Deductive Reasoning,18.62GB,,MRI,Syllogistic ReasoningTransitive Reasoning,https: // github.com/OpenNeuroDatasets/ds002886
+331,ds002885,DBS Phantom Recordings,20.06GB,,coordsystemchannelsmeg14130201,DSMWEmptyRoomReferenceDMW,https: // github.com/OpenNeuroDatasets/ds002885
+332,ds002879,Brain Correlates of Multisensory Lexical Processing in Adults,25.6GB,18 - 34,MRI,Audio-Audio Non-Word RhymingVisual-Visual Non-Word RhymingAudio-Audio Word RhymingVisual-Visual Word Rhyming,https: // github.com/OpenNeuroDatasets/ds002879
+333,ds002878,Creative desicion making in soccer,21.72GB,18 - 36,MRI,soccer,https: // github.com/OpenNeuroDatasets/ds002878
+334,ds002873,"Neural mechanisms of musical syntax and tonality, and the effect of musicianship",9.02MB,,MRI,music,https: // github.com/OpenNeuroDatasets/ds002873
+335,ds002872,Aging,43.15GB,20 - 75,MRI,illusionrest,https: // github.com/OpenNeuroDatasets/ds002872
+336,ds002870,CAMRI Rat Brain MRI Data,305.18MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds002870
+337,ds002868,CAMRI Mouse Brain MRI Data,22.26MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds002868
+338,ds002848,mriquality,5.05GB,19 - 28,MRI,Resting state fMRI,https: // github.com/OpenNeuroDatasets/ds002848
+339,ds002843,Cognitive Training,85.41GB,18 - 34,MRI,risk choice taskintertemporal choice taskrest,https: // github.com/OpenNeuroDatasets/ds002843
+340,ds002842,L2_SENTENCES,1.85GB,20 - 40,MRI,silentreading,https: // github.com/OpenNeuroDatasets/ds002842
+341,ds002841,Intuitive physics with fMRI,7.58GB,,MRI,masstaskmassfrictionmasscolorLocalizer,https: // github.com/OpenNeuroDatasets/ds002841
+342,ds002837,Naturalistic Neuroimaging Database,1.17TB,18 - 58,MRI,500daysofsummer12yearsaslavecitizenfourtheusualsuspectspulpfictiontheshawshankredemptiontheprestigebacktothefuturesplitlittlemisssunshine,https: // github.com/OpenNeuroDatasets/ds002837
+343,ds002835,Prospection,4.98GB,,MRI,Prospection,https: // github.com/OpenNeuroDatasets/ds002835
+344,ds002833,DataSet2,39.77GB,20 - 40,channelseegelectrodesevents,PicturesNaming,https: // github.com/OpenNeuroDatasets/ds002833
+345,ds002814,A Multimodal Neuroimaging Dataset to Study Spatiotemporal Dynamics of Visual Processing in Humans,48.57GB,19 - 32,MRIEEG,task-categorySelectivitycategorySelectivityTODO: full task name for categorySelectivity,https: // github.com/OpenNeuroDatasets/ds002814
+346,ds002813,Model-based fMRI reveals co-existing specific and generalized concept representations,91.78GB,18 - 32,MRI,imtestfintesttrain,https: // github.com/OpenNeuroDatasets/ds002813
+347,ds002799,Human es-fMRI Resource: Concurrent deep-brain stimulation and whole-brain functional MRI,175.68GB,13 - 59,MRIiEEG,esrest,https: // github.com/OpenNeuroDatasets/ds002799
+348,ds002797,eLife39497,9.77GB,30 - 30,MRI,Main,https: // github.com/OpenNeuroDatasets/ds002797
+349,ds002793,ToM following strong vs weak priors,8.84GB,19 - 33,MRI,tomtps,https: // github.com/OpenNeuroDatasets/ds002793
+350,ds002791,DataSet1,47.09GB,19 - 40,channelseegelectrodesevents,,https: // github.com/OpenNeuroDatasets/ds002791
+351,ds002790,AOMIC-PIOP2,407.72GB,18 - 25,MRI,restingstateworkingmemorystopsignalemomatching,https: // github.com/OpenNeuroDatasets/ds002790
+352,ds002785,AOMIC-PIOP1,656.95GB,18 - 26,MRI,anticipationemomatchinggstroopfacesrestingstateworkingmemory,https: // github.com/OpenNeuroDatasets/ds002785
+353,ds002778,UC San Diego Resting State EEG Data from Patients with Parkinson's Disease,545MB,47 - 82,EEG,rest,https: // github.com/OpenNeuroDatasets/ds002778
+354,ds002776,Motor sequence learning,170.03GB,18 - 30,MRI,motorseq,https: // github.com/OpenNeuroDatasets/ds002776
+355,ds002773,Retrieval practice facilitates memory updating by enhancing and differentiating medial prefrontal cortex representations,80.7GB,17 - 25,MRI,updatinglocalizerretrieval,https: // github.com/OpenNeuroDatasets/ds002773
+356,ds002770,Brain mechanisms underlying prospective thinking of sustainable behaviors,27.6GB,,T1wboldeventsfieldmap,cueexposure,https: // github.com/OpenNeuroDatasets/ds002770
+357,ds002766,Cast-induced plasticity,402.32GB,,MRI,MotorrestREST,https: // github.com/OpenNeuroDatasets/ds002766
+358,ds002761,memoryreplay,204.08GB,,MEG,Memory,https: // github.com/OpenNeuroDatasets/ds002761
+359,ds002750,YanDataBIDS,131.86MB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds002750
+360,ds002748,Resting state with closed eyes for patients with depression and healthy participants,2.27GB,19 - 55,MRI,resting state with closed eyes,https: // github.com/OpenNeuroDatasets/ds002748
+361,ds002743,TEST1,34.48MB,30 - 30,MRI,,https: // github.com/OpenNeuroDatasets/ds002743
+362,ds002741,Animated caricatures fMRI study,42.97GB,,MRI,Caricatures,https: // github.com/OpenNeuroDatasets/ds002741
+363,ds002739,Simultaneous EEG-fMRI - Confidence in perceptual decisions,42.3GB,,MRI,main,https: // github.com/OpenNeuroDatasets/ds002739
+364,ds002738,rewardBeast,79.37GB,,MRI,rewardrestepi,https: // github.com/OpenNeuroDatasets/ds002738
+365,ds002737,multibandCFtests,3.38GB,,MRI,StroopnotStroop,https: // github.com/OpenNeuroDatasets/ds002737
+366,ds002735,Headmold,8.65GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds002735
+367,ds002734,Evidence Accumulation in Value-Based decisions,20.96GB,,MRI,main,https: // github.com/OpenNeuroDatasets/ds002734
+368,ds002733,Bids Pilot Project,77.88MB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds002733
+369,ds002732,,9.06GB,19 - 38,MRI,rating,https: // github.com/OpenNeuroDatasets/ds002732
+370,ds002731,Multiple interactive memory representations underlie the induction of false memory,13.02GB,18 - 25,MRI,retrievalencoding,https: // github.com/OpenNeuroDatasets/ds002731
+371,ds002727,EMOTIVE IDIOMS,3.44GB,19 - 36,MRI,silentreading,https: // github.com/OpenNeuroDatasets/ds002727
+372,ds002726,Structural brain network of gifted children,319.66MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds002726
+373,ds002725,A dataset recording joint EEG-fMRI during affective music listening,15.32GB,20 - 29,T1wchannelseegeventsbold,GeneratedMusicclassicalMusicgenMusic01genMusic02washoutgenMusic03,https: // github.com/OpenNeuroDatasets/ds002725
+374,ds002724,A dataset recorded during development of an affective brain-computer music interface: training sessions,8.52GB,19 - 24,channelseegevents,Run,https: // github.com/OpenNeuroDatasets/ds002724
+375,ds002723,A dataset recorded during development of an affective brain-computer music interface: testing session,2.6GB,19 - 30,channelseegevents,Run,https: // github.com/OpenNeuroDatasets/ds002723
+376,ds002722,A dataset recorded during development of an affective brain-computer music interface: calibration session,6.1GB,19 - 30,channelseegevents,Run,https: // github.com/OpenNeuroDatasets/ds002722
+377,ds002721,An EEG dataset recorded during affective music listening,3.35GB,18 - 66,EEG,Run,https: // github.com/OpenNeuroDatasets/ds002721
+378,ds002720,A dataset recorded during development of a tempo-based brain-computer music interface,2.39GB,18 - 28,EEG,Run,https: // github.com/OpenNeuroDatasets/ds002720
+379,ds002718,Face processing EEG dataset for EEGLAB,4.31GB,23 - 31,EEGMRI,FaceRecognition,https: // github.com/OpenNeuroDatasets/ds002718
+380,ds002717,Unexplained Repeated Pregnancy Loss is Associated with Altered Perceptual and Brain Responses to Men’s Body-Odor,9.47GB,,MRI,bodyodorblank,https: // github.com/OpenNeuroDatasets/ds002717
+381,ds002715,AVScenes_Blind,1.35GB,,MRI,AVScenesshortAVSceneslong,https: // github.com/OpenNeuroDatasets/ds002715
+382,ds002712,Numbers and Letters,309.9GB,,T1wchannelseventsmeg,NumbersLetters,https: // github.com/OpenNeuroDatasets/ds002712
+383,ds002711,Smiley,3.56GB,24 - 57,MRI,Smiley,https: // github.com/OpenNeuroDatasets/ds002711
+384,ds002702,High-field 7T Visual fMRI Datasets,73.26GB,,MRI,flocRing,https: // github.com/OpenNeuroDatasets/ds002702
+385,ds002691,Internal attention study,776.76MB,23 - 66,EEG,internalattention,https: // github.com/OpenNeuroDatasets/ds002691
+386,ds002687,Working Memory and Reward in Adults,16.61GB,20 - 30,MRI,"VisuoSpatial Working Memory, Large Reward, Delayed FeedbackVisuoSpatial Working Memory, Large Reward, Immediate FeedbackVisuoSpatial Working Memory, Small Reward, Delayed FeedbackVisuoSpatial Working Memory, Small Reward, Immediate FeedbackVerbal Working Memory, Large Reward, Delayed FeedbackVerbal Working Memory, Large Reward, Immediate FeedbackVerbal Working Memory, Small Reward, Delayed FeedbackVerbal Working Memory, Small Reward, Immediate Feedback",https: // github.com/OpenNeuroDatasets/ds002687
+387,ds002685,IBC,1.2TB,26 - 40,MRI,archi emotionalarchi socialarchi spatialarchi standardselfauditory scene perception clips watchingRSVP languageretinotopyHCP emotionHCP gamblingHCP langageHCP motorHCP relationalHCP socialHCP WMFictitious event orderingMovie Watching taskmovie watching taskrest eyes openfilm viewing,https: // github.com/OpenNeuroDatasets/ds002685
+388,ds002684,Kung Fu Panda,23.3GB,30 - 45,MRI,checkmovieprf,https: // github.com/OpenNeuroDatasets/ds002684
+389,ds002680,Go-nogo categorization and detection task,9.22GB,,EEG,gonogo,https: // github.com/OpenNeuroDatasets/ds002680
+390,ds002675,The language network reemerges during recovery from severe traumatic brain injury,1.33GB,,MRI,language,https: // github.com/OpenNeuroDatasets/ds002675
+391,ds002674,28andMe,58.74GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds002674
+392,ds002672,Robust functional mapping of layer-selective responses in human lateral geniculate nucleus with high-resolution 7T fMRI,4.13GB,,MRI,locLREye,https: // github.com/OpenNeuroDatasets/ds002672
+393,ds002655,The Medial Temporal Lobe Supports Mnemonic Discrimination for Event Duration,21.61GB,,MRI,TemporalMST,https: // github.com/OpenNeuroDatasets/ds002655
+394,ds002647,Isometric exercise facilitates attention to salient events in women via the noradrenergic system,8.16GB,18 - 75,T1wboldevents,Auditory Oddball TaskIsometric Handgrip (IHG) Task,https: // github.com/OpenNeuroDatasets/ds002647
+395,ds002634,Project_larynx,28.7GB,,MRI,ArtVocFactorial,https: // github.com/OpenNeuroDatasets/ds002634
+396,ds002620,"Emotion regulation in the Ageing Brain, University of Reading, BBSRC",24.96GB,56 - 83,MRI,Emoreg Run1Emoreg Run2Emoreg Run3Emoreg Run4,https: // github.com/OpenNeuroDatasets/ds002620
+397,ds002614,Meditacion Interocepcion,26.07MB,,MRI,task-rest,https: // github.com/OpenNeuroDatasets/ds002614
+398,ds002609,RPN-signature_Study2,5.03GB,,MRI,resting-state,https: // github.com/OpenNeuroDatasets/ds002609
+399,ds002608,RPN-signature_Study1,4.88GB,,MRI,resting-state,https: // github.com/OpenNeuroDatasets/ds002608
+400,ds002606,bids_dataset,15.97GB,,MRI,locAPsms16isolocPAepi3d5vollocPAsms16iso5vollocAPepi3d,https: // github.com/OpenNeuroDatasets/ds002606
+401,ds002603,MB-EPI-comparison,11.9GB,19 - 25,MRI,wm,https: // github.com/OpenNeuroDatasets/ds002603
+402,ds002598,Audiovisual Learning MEG Dataset,277.31GB,19 - 36,MEG,AVLearn,https: // github.com/OpenNeuroDatasets/ds002598
+403,ds002596,"Pain Control by Co-adaptive Learning in a Brain-Machine Interface. d1 - decoder construction in day 1, d2 - adaptive control in day 2.",6.78GB,,MRI,d1-decoder_constructiond2-adaptive_tcontrol,https: // github.com/OpenNeuroDatasets/ds002596
+404,ds002578,Visual Oddball Task (256 channels),1.33GB,30 - 30,EEGMRI,attention,https: // github.com/OpenNeuroDatasets/ds002578
+405,ds002574,Cerebellum Retinotopic Mapping,10.07GB,,MRI,prf,https: // github.com/OpenNeuroDatasets/ds002574
+406,ds002551,Mouse_rest_awake,525.91MB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds002551
+407,ds002550,Differential brain mechanisms of selection and maintenance of information during working memory (MEG data),167.5GB,,MEGMRI,WorkingMemoryLocalizerControl,https: // github.com/OpenNeuroDatasets/ds002550
+408,ds002549,Protecting the Aging Brain (PAgB),335.8GB,,MRI,mazerest,https: // github.com/OpenNeuroDatasets/ds002549
+409,ds002547,SharedStates,77.9GB,18 - 25,MRI,otherself,https: // github.com/OpenNeuroDatasets/ds002547
+410,ds002543,"Learning, Inhibitory Control, and Perception",21.29GB,19 - 29,MRI,RLtestphaseRLlearningphaseStopsignalppaffalomapper,https: // github.com/OpenNeuroDatasets/ds002543
+411,ds002522,Contrast Response Functions,4.88GB,18 - 30,MRI,CRF,https: // github.com/OpenNeuroDatasets/ds002522
+412,ds002513,Increased brain reactivity to gambling unavailability as a marker of problem gambling,30.18GB,,MRI,cueexposure,https: // github.com/OpenNeuroDatasets/ds002513
+413,ds002425,"The neural representation of visually evoked emotion is high-dimensional, categorical, and distributed across transmodal brain regions",54.04GB,,MRI,CowenKeltnerEmotionMovie,https: // github.com/OpenNeuroDatasets/ds002425
+414,ds002424,Working Memory and Reward in Children with and without Attention Deficit Hyperactivity Disorder (ADHD),40.45GB,,MRI,"VisuoSpatial Working Memory, Large Reward, Delayed FeedbackVisuoSpatial Working Memory, Large Reward, Immediate FeedbackVisuoSpatial Working Memory, Small Reward, Delayed FeedbackVerbal Working Memory, Large Reward, Delayed FeedbackVisuoSpatial Working Memory, Small Reward, Immediate FeedbackVerbal Working Memory, Small Reward, Delayed FeedbackVerbal Working Memory, Large Reward, Immediate FeedbackVerbal Working Memory, Small Reward, Immediate Feedback",https: // github.com/OpenNeuroDatasets/ds002424
+415,ds002422,fMRI: resting state and arithmetic task,5.65GB,20 - 75,T1wboldeventsfieldmap,restarithm_run-02arithm_run-01,https: // github.com/OpenNeuroDatasets/ds002422
+416,ds002419,"Short-term consumption of sucralose with, but not without, carbohydrate impairs neural and metabolic sensitivity to sugar",90.9GB,23 - 39,MRI,task-taste1task-taste2,https: // github.com/OpenNeuroDatasets/ds002419
+417,ds002411,fMRI dataset on program comprehension and expertise,56.3GB,20 - 24,MRI,ProgramCategorization,https: // github.com/OpenNeuroDatasets/ds002411
+418,ds002385,PETfrog,119.34GB,12 - 33,MRI,,https: // github.com/OpenNeuroDatasets/ds002385
+419,ds002382,Age-related differences in auditory cortex activity during spoken word recognition,56.88GB,19 - 81,MRI,REPEAT02REPEAT01LISTEN01LISTEN02,https: // github.com/OpenNeuroDatasets/ds002382
+420,ds002380,SerumGreyMatterCorticalThickness,3.72GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds002380
+421,ds002374,3AM straight reproducibility phantoms,5.4MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds002374
+422,ds002372,Yale_Single_Subject_Task_Rest30x,156.92GB,,MRI,Gradual-onset continuous performance taskCard Guessing TaskReading the Mind in the eyes taskRest taskN-back taskMovies taskStop-signal task,https: // github.com/OpenNeuroDatasets/ds002372
+423,ds002367,OHBM abstract 2020,3.53GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds002367
+424,ds002366,"Emotion regulation in the Ageing Brain, University of Reading, BBSRC",10.45GB,56 - 83,MRI,Emoreg Run1Emoreg Run2Emoreg Run3Emoreg Run4,https: // github.com/OpenNeuroDatasets/ds002366
+425,ds002363,Repetition of Computer Security Warnings Results in Differential Repetition Suppression Effects as Revealed with Functional MRI,2.02GB,19 - 32,MRI,RSE1,https: // github.com/OpenNeuroDatasets/ds002363
+426,ds002358,columnar Finger representations,130.59GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds002358
+427,ds002345,Narratives,134.52GB,18 - 53,MRI,piemantunnelnotthefallintactnotthefallshortscramslumlordreachlucymilkywayprettymouthnotthefalllongscramschemashapesphysicalshapessocial21styearmerlinsherlockbronxblackforgotpiemanpni,https: // github.com/OpenNeuroDatasets/ds002345
+428,ds002338,A multi-modal human neuroimaging dataset for data integration: simultaneous EEG and fMRI acquisition during a motor imagery neurofeedback task: XP2,25.83GB,18 - 66,EEGMRI,1dNFMIpostMIpre2dNF1dNF_run-012dNF_run-02,https: // github.com/OpenNeuroDatasets/ds002338
+429,ds002336,A multi-modal human neuroimaging dataset for data integration: simultaneous EEG and fMRI acquisition during a motor imagery neurofeedback task: XP1,17.98GB,19 - 39,EEGMRI,fmriNFeegfmriNFMIposteegNFmotorlocMIpre,https: // github.com/OpenNeuroDatasets/ds002336
+430,ds002330,Neuroimaging predictors of creativity in healthy adults,48.3GB,20 - 35,MRI,Rest,https: // github.com/OpenNeuroDatasets/ds002330
+431,ds002328,FSL open science dev dataset,15.2MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds002328
+432,ds002322,The Alice Dataset: fMRI Dataset to Study Natural Language Comprehension in the Brain,8.31GB,18 - 26,MRI,alice,https: // github.com/OpenNeuroDatasets/ds002322
+433,ds002320,Dynamic_Passive_Threat,129.17GB,,MRI,circles,https: // github.com/OpenNeuroDatasets/ds002320
+434,ds002316,rewardBeast,483.4GB,,MRI,rewardBeastrest,https: // github.com/OpenNeuroDatasets/ds002316
+435,ds002311,Multiple-object tracking as atool for parametrically modulating memory reactivation,11.82GB,,MRI,Post-MOT memory testCategory LocalizerMOT taskPre-MOT memory test,https: // github.com/OpenNeuroDatasets/ds002311
+436,ds002307,individual_dMRI_fMRI,41.62GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds002307
+437,ds002306,Over 100 Task fMRI Dataset,20.98GB,,T1wboldevents,testtraining,https: // github.com/OpenNeuroDatasets/ds002306
+438,ds002295,ODC mapper 7T surface coil,80.58GB,,MRI,Detect Fixation changesPRF stimulusDetect changes in checkerboard rotation direction,https: // github.com/OpenNeuroDatasets/ds002295
+439,ds002294,trait-role,20.25GB,,MRI,roletrait,https: // github.com/OpenNeuroDatasets/ds002294
+440,ds002293,FSL open science dev dataset,6MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds002293
+441,ds002278,Dense Investigation of Variability of Affect (DIVA),4.76GB,25,MRI,"Stranger Thingslocalization task, detection versionlocalization task, estimation version",https: // github.com/OpenNeuroDatasets/ds002278
+442,ds002274,Hands on analysis tutorial,1.9GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds002274
+443,ds002270,Viewing_food_cues,6.44GB,21 - 29,MRI,Viewing alternating blocks presenting either ready-to-eat edible objects or pictures of items unrelated to food,https: // github.com/OpenNeuroDatasets/ds002270
+444,ds002250,When my wrongs are worse than yours: behavioral and neural asymmetries in first-person and third-person perspectives of accidents,6.61GB,18 - 36,MRI,firstthirdsotom,https: // github.com/OpenNeuroDatasets/ds002250
+445,ds002242,Correcting False Memories: The Effect of Mnemonic Generalization on Original Memory Traces,81.29GB,,MRI,STT,https: // github.com/OpenNeuroDatasets/ds002242
+446,ds002241,Relating visual production and recognition of objects in human visual cortex,57.37GB,,MRI,drawingrecognition,https: // github.com/OpenNeuroDatasets/ds002241
+447,ds002237,Briefly cueing memories leads to suppression of their neural representations,5.69GB,,MRI,RSVP taskPost-RSVP memory testPre-RSVP memory testCategory Localizer,https: // github.com/OpenNeuroDatasets/ds002237
+448,ds002236,Cross-Sectional Multidomain Lexical Processing,21.62GB,8 - 15,MRI,Auditory Rhyming JudgmentAuditory Semantic JudgmentAuditory Spelling JudgmentVisual Rhyming JudgmentVisual Semantic JudgmentVisual Spelling Judgment,https: // github.com/OpenNeuroDatasets/ds002236
+449,ds002232,Caltech rsfMRI Dataset,2.21GB,21 - 34,MRI,rest,https: // github.com/OpenNeuroDatasets/ds002232
+450,ds002218,Auditory and Visual Rhythm Omission EEG,1.95GB,,EEG,Experiment,https: // github.com/OpenNeuroDatasets/ds002218
+451,ds002207,CEREBRuM: a 3T MRI segmentation tool,86.05MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds002207
+452,ds002185,Human Olfaction Without Apparent Olfactory Bulbs,6.91GB,,T1wT2wdwiboldevents,odorsTODO: full task name for odors,https: // github.com/OpenNeuroDatasets/ds002185
+453,ds002181,CRYPTO and PROVIDE EEG Baseline Data,150.89MB,6 - 36,channelseegevents,Baseline,https: // github.com/OpenNeuroDatasets/ds002181
+454,ds002179,7 Tesla MRI of the ex vivo human brain at 100 micron resolution,95.4GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds002179
+455,ds002169,CCD,236.83GB,18 - 18,MRI,CCDLocalizer,https: // github.com/OpenNeuroDatasets/ds002169
+456,ds002168,Pattern Separation beyond the Hippocampus: A High-Resolution Whole-Brain Investigation of Mnemonic Discrimination in Healthy Adults,98.06GB,,MRI,MST,https: // github.com/OpenNeuroDatasets/ds002168
+457,ds002158,Disentangling the origins of confidence in speeded perceptual judgments through multimodal imaging,428.59GB,20 - 32,MRIEEG,mainrest,https: // github.com/OpenNeuroDatasets/ds002158
+458,ds002156,Multi-echo masking test dataset,538.33MB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds002156
+459,ds002155,A mesial-to-lateral dissociation for orthographic processing in the visual cortex,51.25GB,,MRI,graphemesregularity,https: // github.com/OpenNeuroDatasets/ds002155
+460,ds002154,Mouse_rest_psilocybin_pilot,2.71GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds002154
+461,ds002153,testrun,858.6MB,,MRI,Resting_state,https: // github.com/OpenNeuroDatasets/ds002153
+462,ds002149,Conditional Visual Associative Learning Task,10.38GB,,MRI,conditional visual associative learning task,https: // github.com/OpenNeuroDatasets/ds002149
+463,ds002144,Stat Episodic,78.25GB,,MRI,random presentationcategory pairings,https: // github.com/OpenNeuroDatasets/ds002144
+464,ds002134,Mouse_opto_3xTG,9.51GB,3 - 6,MRI,opto10opto5opto20rest,https: // github.com/OpenNeuroDatasets/ds002134
+465,ds002116,Development of Symbolic Number Processing,27.72GB,6 - 14,MRI,Adaptation,https: // github.com/OpenNeuroDatasets/ds002116
+466,ds002105,Multi-Domain Task Battery (MDTB),209GB,19 - 29,MRI,abrest,https: // github.com/OpenNeuroDatasets/ds002105
+467,ds002094,Single-pulse open-loop TMS-EEG dataset,39.45GB,,channelseegevents,resttmseeg1tmseeg2,https: // github.com/OpenNeuroDatasets/ds002094
+468,ds002087,Datasets with and without deliberate head movements for detection and imputation of dropout in diffusion MRI,116.32MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds002087
+469,ds002080,BTC_postop,4.32GB,39 - 77,MRI,rest,https: // github.com/OpenNeuroDatasets/ds002080
+470,ds002076,Layer-dependent activity in human prefrontal cortex during working memory,18.55GB,,MRI,alpha-remlocalizergo-nogo,https: // github.com/OpenNeuroDatasets/ds002076
+471,ds002041,Mesolimbic dopamine D2 receptors and neural representations of subjective value,3.23GB,18 - 24,MRI,TD,https: // github.com/OpenNeuroDatasets/ds002041
+472,ds002040,BIDS_PARKINSON,24MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds002040
+473,ds002034,Real-time EEG feedback on alpha power lateralization leads to behavioral improvements in a covert attention task,10.1GB,21 - 27,EEG,task-offlinetask-offlinecatchtask-onlineshamtask-onlinereal,https: // github.com/OpenNeuroDatasets/ds002034
+474,ds002033,Investigating the visual number form area: A replication study,23.74GB,18 - 39,MRI,ChangeDetection,https: // github.com/OpenNeuroDatasets/ds002033
+475,ds002016,BigBrainMRICoreg,2.16GB,,,,https: // github.com/OpenNeuroDatasets/ds002016
+476,ds002014,Language Production fMRI,34.28MB,,MRI,"language production task, semantic fluency",https: // github.com/OpenNeuroDatasets/ds002014
+477,ds002013,StimDisc,1.63GB,,MRI,CircConStimDisc,https: // github.com/OpenNeuroDatasets/ds002013
+478,ds002011,Locus coeruleus activity strengthens prioritized memories under arousal,3.5GB,,MRI,Overlap (Monetary Encoding Incentive) TaskPPA/LOC functional Localizer,https: // github.com/OpenNeuroDatasets/ds002011
+479,ds002006,Memory and decision making dataset,46.02GB,,MRI,ColorDotsMemoryFoodChoice,https: // github.com/OpenNeuroDatasets/ds002006
+480,ds002001,Rivalry_Tagging,81.67GB,,MEGMRI,rivalrynoise,https: // github.com/OpenNeuroDatasets/ds002001
+481,ds002000,reinstatement_fidelity,38.73GB,,MRI,rf,https: // github.com/OpenNeuroDatasets/ds002000
+482,ds001984,Image segmentation Based on Relative Motion and Relative Disparity Cues (passive fixation),50.47GB,,MRI,task-conttask-disptask-mot,https: // github.com/OpenNeuroDatasets/ds001984
+483,ds001981,Temporal stability of fMRI in medetomidine-anesthetized rats,70.84GB,,MRI,efsrs,https: // github.com/OpenNeuroDatasets/ds001981
+484,ds001978,Image segmentation Based on Relative Motion and Relative Disparity Cues (central letter task),34.59GB,,MRI,task-dispAtttask-motAtt,https: // github.com/OpenNeuroDatasets/ds001978
+485,ds001972,SVNDL anatomical data,1.22GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds001972
+486,ds001971,Audiocue walking study,31.98GB,,channelscoordsystemeegelectrodesevents,AudioCueWalkingStudy,https: // github.com/OpenNeuroDatasets/ds001971
+487,ds001946,Hippocampal-neocortical interactions sharpen over time for predictive actions,41.81GB,,MRI,cue-action-outcomeFunctional Localizer,https: // github.com/OpenNeuroDatasets/ds001946
+488,ds001945,MouseLemurAtlas_MRIraw,1.88GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds001945
+489,ds001942,Auditory localization with 7T fMRI,153.94GB,23 - 30,MRI,restauditoryTODO: full task name for auditoryTODO: full task name for rest,https: // github.com/OpenNeuroDatasets/ds001942
+490,ds001928,Functional Connectivity of Music-Induced Analgesia in Fibromyalgia,20.41GB,21 - 70,MRI,post-controlpre-musicpre-controlpost-music,https: // github.com/OpenNeuroDatasets/ds001928
+491,ds001927,The physiological effects of non-invasive brain stimulation fundamentally differ across the human cortex,21.39GB,19 - 32,MRI,Rest PostRest Pre,https: // github.com/OpenNeuroDatasets/ds001927
+492,ds001926,Violation Differentiation,140.69GB,,MRI,Post Test PhaseLocalizerTest PhaseStudy Phase,https: // github.com/OpenNeuroDatasets/ds001926
+493,ds001923,"Anterior cingulate engagement in a foraging context reflects choice difficulty, not foraging value (2)",4.98GB,,MRI,forage-engage decision task,https: // github.com/OpenNeuroDatasets/ds001923
+494,ds001921,"Anterior cingulate engagement in a foraging context reflects choice difficulty, not foraging value (1)",3.45GB,,MRI,forage-engage decision task,https: // github.com/OpenNeuroDatasets/ds001921
+495,ds001912,S-cone_MotionInDepth_fMRI,9.49GB,,MRI,task-MIDtask-MTMST,https: // github.com/OpenNeuroDatasets/ds001912
+496,ds001907,ANT: Healthy aging and Parkinson's disease,258.03GB,,MRI,ANTrest,https: // github.com/OpenNeuroDatasets/ds001907
+497,ds001894,Longitudinal Brain Correlates of Multisensory Lexical Processing in Children,225.75GB,,MRI,Audio-Audio Non-Word RhymingAudio-Audio Word RhymingAudio-Visual Non-Word RhymingAudio-Visual Word RhymingVisual-Visual Word RhymingVisual-Visual Non-Word Rhyming,https: // github.com/OpenNeuroDatasets/ds001894
+498,ds001890,Mouse_rest_3xTG,9.01GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds001890
+499,ds001883,Social Decision-Making Risky Choice Task Dataset,56.5GB,23 - 55,MRI,SocialRiskyChoice,https: // github.com/OpenNeuroDatasets/ds001883
+500,ds001882,Social Decision-Making Intertemporal Choice Task Dataset,53.68GB,20 - 55,MRI,SocialIntertemporalChoice,https: // github.com/OpenNeuroDatasets/ds001882
+501,ds001875,TheVirtualBrain Macaque MRI,24.38GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds001875
+502,ds001849,RS_TMSEEG_Data,44.51GB,,EEG,tmseegrest,https: // github.com/OpenNeuroDatasets/ds001849
+503,ds001848,"Parallel Adaptation of Symbols, Quantities, and Physical Size",67.29GB,18 - 39,MRI,ParallelAdaptation,https: // github.com/OpenNeuroDatasets/ds001848
+504,ds001847,"A Probability Distribution over Latent Causes, in the Orbitofrontal Cortex",6.76GB,,MRI,Photographs task,https: // github.com/OpenNeuroDatasets/ds001847
+505,ds001840,Prestimulus Exp1,9.08GB,18 - 37,MRI,viewclips,https: // github.com/OpenNeuroDatasets/ds001840
+506,ds001839,Spinal stimulation stepping and standing dataset,2.85GB,,T1wboldevents,rest15rest30stand15stand30step15step30,https: // github.com/OpenNeuroDatasets/ds001839
+507,ds001838,Handedness and Symbolic Number Representation,27.12GB,18 - 35,MRI,Adaptation,https: // github.com/OpenNeuroDatasets/ds001838
+508,ds001832,Resting State - TMS,3.21GB,,T1wbold,Rest,https: // github.com/OpenNeuroDatasets/ds001832
+509,ds001818,Enhanced striatal and prefrontal activity is associated with individual differences in nonreinforced preference change for faces,170.35GB,,MRI,localizerprobetrainingresponsetostim,https: // github.com/OpenNeuroDatasets/ds001818
+510,ds001814,Neuroanatomical correlates of approach-avoidance conflict (fMRI),26.22GB,23 - 55,T1wboldevents,ARC,https: // github.com/OpenNeuroDatasets/ds001814
+511,ds001810,"EEG study of the attentional blink; before, during, and after transcranial Direct Current Stimulation (tDCS)",109.7GB,,channelseegevents,Attentional blink,https: // github.com/OpenNeuroDatasets/ds001810
+512,ds001796,Bilingualism and the brain,47.02GB,18 - 52,MRI,flankerrest,https: // github.com/OpenNeuroDatasets/ds001796
+513,ds001787,EEG meditation study,5.69GB,29 - 78,EEG,meditation,https: // github.com/OpenNeuroDatasets/ds001787
+514,ds001785,Evidence accumulation relates to perceptual consciousness and monitoring,27.86GB,18 - 34,EEG,tactile detection,https: // github.com/OpenNeuroDatasets/ds001785
+515,ds001784,Effects of ON/OFF deep brain stimulation on cognitive control in treatment-resistant depression (EEG),10.96GB,,T1wbehchannels,afmsitrest,https: // github.com/OpenNeuroDatasets/ds001784
+516,ds001780,SC MRI dataset,12.45MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds001780
+517,ds001775,Neural Differentiation Tracks Improved Recall of Competing Memories Following Interleaved Study and Retrieval Practice,16.66GB,,MRI,study phaseretrieval-practice/restudy phase,https: // github.com/OpenNeuroDatasets/ds001775
+518,ds001771,InterTVA. A multimodal MRI dataset for the study of inter-individual differences in voice perception and identification.,116.9GB,18 - 41,MRI,identificationrestlocalizer,https: // github.com/OpenNeuroDatasets/ds001771
+519,ds001769,studyforrest_movie_denoised,27.41GB,,MRI,movie,https: // github.com/OpenNeuroDatasets/ds001769
+520,ds001768,Retinotopy,1.84GB,,T1wbold,Retinotopy,https: // github.com/OpenNeuroDatasets/ds001768
+521,ds001762,Dorsal anterior cingulate and ventromedial prefrontal cortex have inverse roles in both foraging and economic choice,15.96GB,,MRI,Foraging task,https: // github.com/OpenNeuroDatasets/ds001762
+522,ds001761,Reconstructing Faces from fMRI Patterns using Deep Generative Neural Networks.,86.4GB,24 - 44,MRI,facesloc,https: // github.com/OpenNeuroDatasets/ds001761
+523,ds001751,Context-dependent cognitive control | Flanker task,3.3GB,,MRI,flanker,https: // github.com/OpenNeuroDatasets/ds001751
+524,ds001748,Differentiation of functional networks during long-term memory retrieval in children and adolescents,9.43GB,10 - 34,MRI,episodicautobiosemantic,https: // github.com/OpenNeuroDatasets/ds001748
+525,ds001747,Exploring the Resting State Neural Activity of Monolinguals and Late and Early Bilinguals,59.98GB,18 - 29,MRI,rest,https: // github.com/OpenNeuroDatasets/ds001747
+526,ds001745,A neural signature of contextually mediated intentional forgetting,7.1GB,,MRI,Image localizerStudy-TestWord localizer,https: // github.com/OpenNeuroDatasets/ds001745
+527,ds001743,Unilateral Glaucoma 3T dMRI,589.71MB,19 - 66,MRI,,https: // github.com/OpenNeuroDatasets/ds001743
+528,ds001740,Brain activity during reciprocal social interaction investigated using conversational robots as control condition,47.21GB,18 - 73,MRI,convers,https: // github.com/OpenNeuroDatasets/ds001740
+529,ds001734,NARPS,854.05GB,18 - 37,MRI,MGT,https: // github.com/OpenNeuroDatasets/ds001734
+530,ds001728,Test-GEIER,42.19MB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds001728
+531,ds001725,Mouse_rest_psilocybin,5.02GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds001725
+532,ds001722,A role for the medial temporal lobe subsystem in guiding prosociality: the effect of episodic processes on willingness to help others (Experiment 2),2.15GB,,MRI,tom,https: // github.com/OpenNeuroDatasets/ds001722
+533,ds001720,Mouse_rest_multicentre,24.71GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds001720
+534,ds001715,Dissociable neural mechanisms track evidence accumulation for selection of attention versus action,15.18GB,,MRI,Decision-making task,https: // github.com/OpenNeuroDatasets/ds001715
+535,ds001705,NRM2018 PET Grand Challenge Dataset,3.36GB,28 - 53,PETMRI,LondonPride,https: // github.com/OpenNeuroDatasets/ds001705
+536,ds001653,Mouse_rest_awake,8.73GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds001653
+537,ds001652,Ironia VEV,1.02GB,18 - 27,MRI,Ironia VEV,https: // github.com/OpenNeuroDatasets/ds001652
+538,ds001635,Visual working memory: Study two Task fMRI and Behavioural response,4.64GB,,MRI,ep2d_bold_MemoryAndManiupulate_1ep2d_bold_MemoryAndManiupulate_3ep2d_bold_MemoryAndManiupulate_1_take2ep2d_bold_MemoryAndManiupulate_2_take2ep2d_bold_MemoryAndManiupulate_Run1 ep2d_bold_MemoryAndManiupulate_Run2 ep2d_bold_MemoryAndManiupulate_2ep2d_bold_MemoryAndManiupulate_Run3,https: // github.com/OpenNeuroDatasets/ds001635
+539,ds001634,Visual working memory: Study one Task fMRI and Behavioural response,5.93GB,,MRI,ep2d_bold_WorkingMemory_Run1ep2d_bold_WorkingMemory_Run3ep2d_bold_WorkingMemory_Order1ep2d_bold_WorkingMemory_Run2ep2d_bold_WorkingMemory_Order2ep2d_bold_WorkingMemory_Order3ep2d_bold_WorkingMemory_order1ep2d_bold_WorkingMemory_order2ep2d_bold_WorkingMemory_order1_run2 ep2d_bold_WorkingMemory_order1_run1 ep2d_bold_WorkingMemory_order1_run3 ep2d_bold_WorkingMemory_order3,https: // github.com/OpenNeuroDatasets/ds001634
+540,ds001621,Neural representations of events arise from temporal community structure,4.33GB,,MRI,commstruc,https: // github.com/OpenNeuroDatasets/ds001621
+541,ds001618,"Shared and differential default-mode related patterns of activity in an autobiographical, a self-referential and an attentional task",5.9GB,18 - 65,MRI,N-backSelf/Other reflectionAutobiographical memory,https: // github.com/OpenNeuroDatasets/ds001618
+542,ds001614,Perceptual decisions result from the continuous accumulation of memory and sensory evidence,40.61GB,,T1wboldevents,Response TrainingFuncational localizerSequence LearningCued Inference task,https: // github.com/OpenNeuroDatasets/ds001614
+543,ds001612,Offline replay supports planning in human reinforcement learning,9.09GB,,MRI,Funcational localizerMain task,https: // github.com/OpenNeuroDatasets/ds001612
+544,ds001608,Prestimulus Exp2,7.72GB,23 - 32,MRI,viewclips,https: // github.com/OpenNeuroDatasets/ds001608
+545,ds001607,Reinstated episodic context guides sampling-based decisions for reward,10.17GB,,MRI,Learning taskFuncational localizerTest,https: // github.com/OpenNeuroDatasets/ds001607
+546,ds001600,Example Fieldmaps,16.23MB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds001600
+547,ds001597,multiFingerRSA,55.67GB,,MRI,cuedMFM,https: // github.com/OpenNeuroDatasets/ds001597
+548,ds001595,Test dataset for XCP software,99.08MB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds001595
+549,ds001591,Mouse_rest_KCLtraining,118.82MB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds001591
+550,ds001590,Feature Discrimination,295.36GB,,MRI,simserloc,https: // github.com/OpenNeuroDatasets/ds001590
+551,ds001576,Refresh my memory: Episodic memory reinstatements intrude on working memory maintenance,27.84GB,,MRI,Learning taskDNMS,https: // github.com/OpenNeuroDatasets/ds001576
+552,ds001566,Unnamed Dataset,1.13GB,,MRI,Resting state fMRI,https: // github.com/OpenNeuroDatasets/ds001566
+553,ds001563,CMRR Workshop,8.83GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds001563
+554,ds001555,Large Single-Subject Functional MRI Datasets at 7T,31.99GB,23 - 28,MRI,HalfFovNoTaskFullFovNoAttentionTaskFullFovAttentionTaskFull Field-of-View Visual Stimulation + Attention Control TaskFull Field-of-View Visual Stimulation OnlyHemifield Visual Stimulation,https: // github.com/OpenNeuroDatasets/ds001555
+555,ds001554,Neural pattern change during encoding of a narrative predicts retrospective duration estimates,4.4GB,,MRI,listening,https: // github.com/OpenNeuroDatasets/ds001554
+556,ds001553,100 runs at 3T,8.52GB,25 - 30,MRI,checkerboardrestCheckerboard at 8 Hz + letter/number discrimination task,https: // github.com/OpenNeuroDatasets/ds001553
+557,ds001551,Pupil mimicry promotes trust through the theory-of-mind network,9.84GB,,MRI,trust,https: // github.com/OpenNeuroDatasets/ds001551
+558,ds001547,Layer VASO in visual system,11.61GB,21 - 33,MRI,imageryrestswirly stars,https: // github.com/OpenNeuroDatasets/ds001547
+559,ds001545,Learning Naturalistic Temporal Structure in the Posterior Medial Network,26.61GB,18 - 33,MRI,movie watching,https: // github.com/OpenNeuroDatasets/ds001545
+560,ds001541,Mouse_opto_DRN,6.95GB,,MRI,opto,https: // github.com/OpenNeuroDatasets/ds001541
+561,ds001534,Calorie-labeled food cues,5.72GB,18 - 22,MRI,foodimagerating non-calorie labeled food imagesrating calorie-labled food images,https: // github.com/OpenNeuroDatasets/ds001534
+562,ds001529,Mouse_rest_anesthesia,1.15GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds001529
+563,ds001525,Syllable level speech sequencing,29.91GB,18 - 35,MRI,RepetitionLocalizer,https: // github.com/OpenNeuroDatasets/ds001525
+564,ds001521,Lingering representations of stimuli influence recall organization,13.05GB,,MRI,LocalizerStudy-Test,https: // github.com/OpenNeuroDatasets/ds001521
+565,ds001517,Associative Prediction of Visual Shape in the Hippocampus,157.94GB,18 - 33,MRI,Prediction audio cueShape only,https: // github.com/OpenNeuroDatasets/ds001517
+566,ds001511,Schematic narrative perception and recall (scrambled),19.8GB,19 - 38,MRI,CMIYCscrambled,https: // github.com/OpenNeuroDatasets/ds001511
+567,ds001510,Schematic narrative perception and recall (intact),67.37GB,,MRI,schemarecallrecallperception,https: // github.com/OpenNeuroDatasets/ds001510
+568,ds001506,Deep Image Reconstruction,97.63GB,,MRI,imageryperception,https: // github.com/OpenNeuroDatasets/ds001506
+569,ds001499,BOLD5000,280.3GB,24 - 27,MRI,5000scenesScene Localizer,https: // github.com/OpenNeuroDatasets/ds001499
+570,ds001497,"Long-term Memory (LTM) for famous Faces, Places, and common Objects",2.23GB,,MRI,LTM,https: // github.com/OpenNeuroDatasets/ds001497
+571,ds001491,Valence processing differs across stimulus modalities (Multi-echo),16.3GB,18 - 29,MRI,task-FlavorRun1task-FlavorRun2task-FlavorRun3task-FlavorRun4task-images,https: // github.com/OpenNeuroDatasets/ds001491
+572,ds001486,Brain Correlates of Math Development,89.93GB,,MRI,Single-Digit MultiplicationNumerosity JudgementRhyming JudgementSingle-Digit Subtraction,https: // github.com/OpenNeuroDatasets/ds001486
+573,ds000113,Forrest Gump,421.81GB,15 - 35,MRI,Forrest Gumpmovielocalizerretmapconretmapccwretmapclwretmapexpcoverageobjectcategoriesmovieauditory perception,https: // github.com/OpenNeuroDatasets/ds000113
+574,ds001461,rsfMRI_comrobidity-SmokingandSchizophrenia,2.23GB,17 - 60,MRI,rest,https: // github.com/OpenNeuroDatasets/ds001461
+575,ds001454,Human hippocampal replay during rest prioritizes weakly learned information and predicts memory performance,15.08GB,19 - 38,MRI,restsatellite,https: // github.com/OpenNeuroDatasets/ds001454
+576,ds001450,Unnamed Dataset,51.62MB,,bold,rest,https: // github.com/OpenNeuroDatasets/ds001450
+577,ds001439,A role for the medial temporal lobe subsystem in guiding prosociality: the effect of episodic processes on willingness to help others,7.79GB,18 - 35,MRI,iehtom,https: // github.com/OpenNeuroDatasets/ds001439
+578,ds001430,Neural Overlap in Item Representations Across Episodes Impairs Context Memory,9.12GB,18 - 33,MRI,Task LocalizerInitial EncodingSource Memory TestItem Repetition,https: // github.com/OpenNeuroDatasets/ds001430
+579,ds001421,[11C]SB207145 PET Cimbi database example,915.34MB,21,PETMRI,SB,https: // github.com/OpenNeuroDatasets/ds001421
+580,ds001420,[11C]DASB PET Cimbi database example,579.16MB,20 - 21,PETMRI,DASB,https: // github.com/OpenNeuroDatasets/ds001420
+581,ds001419,thoughtExperiment,174.57MB,25,MRI,imageryrest,https: // github.com/OpenNeuroDatasets/ds001419
+582,ds001417,CAT snacks functional plasticity,88.5GB,20 - 34,MRI,proberesponsetosnacks,https: // github.com/OpenNeuroDatasets/ds001417
+583,ds001415,Audio Cartography,1.3GB,20 - 62,MRI,map listening,https: // github.com/OpenNeuroDatasets/ds001415
+584,ds001408,rsfMRI_single_session_EEG_NF,8.74GB,18 - 44,MRI,rest,https: // github.com/OpenNeuroDatasets/ds001408
+585,ds001399,multibandACQtests,6.5GB,,MRI,rewarddelay,https: // github.com/OpenNeuroDatasets/ds001399
+586,ds001386,Subject Data,4.58GB,18 - 74,MRI,,https: // github.com/OpenNeuroDatasets/ds001386
+587,ds001379,Loci case study,5.13GB,59,MRI,encodeforgetlocirecall,https: // github.com/OpenNeuroDatasets/ds001379
+588,ds001378,SCA2 Diffusion Tensor Imaging,615.47MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds001378
+589,ds001371,Rule learning in adolescents at clinical high risk for psychosis shows altered patterns of activation,61.4GB,14 - 25,T1wboldeventssbreffieldmap,ritl,https: // github.com/OpenNeuroDatasets/ds001371
+590,ds001365,Indiv Diffs ReadingSkill,211.01MB,-4 - 4,MRI,,https: // github.com/OpenNeuroDatasets/ds001365
+591,ds000031,Myconnectome,119.46GB,46,MRI,Resting fmriN-back taskRetinotopic mappingBreath holding taskDot motion stop-signal taskObject recognition taskSentence processing taskSpatial working memory task,https: // github.com/OpenNeuroDatasets/ds000031
+592,ds001357,NameFacePriming,3.52GB,,MRI,familiarityviewing,https: // github.com/OpenNeuroDatasets/ds001357
+593,ds001353,Information Filtering in Electronic Networks of Practice: An fMRI Investigation of Expectation [Dis]confirmation,4.27GB,19 - 46,MRI,knowfilt,https: // github.com/OpenNeuroDatasets/ds001353
+594,ds000140,Distinct brain systems mediate the effects of nociceptive input and self-regulation on pain,17.73GB,19 - 55,MRI,heat pain with regulation and ratings,https: // github.com/OpenNeuroDatasets/ds000140
+595,ds001345,Decoding of multisensory semantics and memories in low-level visual cortex,2.17GB,22 - 34,MRI,Audio-Visual Memory,https: // github.com/OpenNeuroDatasets/ds001345
+596,ds001344,phfMRI_Control_Tasks,1.73GB,22 - 41,MRI,Eye Movemement VariantWorking Memory VariantEye Movement Variant,https: // github.com/OpenNeuroDatasets/ds001344
+597,ds001339,SocialBrain,2.77GB,,MRI,iaps,https: // github.com/OpenNeuroDatasets/ds001339
+598,ds001338,ParanoiaStory,23.53GB,19 - 35,MRI,story2story1story3,https: // github.com/OpenNeuroDatasets/ds001338
+599,ds000149,Scene Perception,3.06GB,18 - 33,MRI,picture manual responsepicture n-back,https: // github.com/OpenNeuroDatasets/ds000149
+600,ds000249,Value generalization in human avoidance learning,4.4GB,20 - 45,MRI,genInstrAv,https: // github.com/OpenNeuroDatasets/ds000249
+601,ds000247,MEG-BIDS OMEGA RestingState_sample,10.5GB,21 - 35,MEGMRI,restnoise,https: // github.com/OpenNeuroDatasets/ds000247
+602,ds000248,MNE Sample Dataset,1.93GB,,MEGMRI,audiovisualnoise,https: // github.com/OpenNeuroDatasets/ds000248
+603,ds000117,"Multisubject, multimodal face processing",169.44GB,23 - 31,MRIMEG,facerecognition,https: // github.com/OpenNeuroDatasets/ds000117
+604,ds000246,MEG-BIDS Brainstorm data sample,2.29GB,25,MEGMRI,AEFnoise,https: // github.com/OpenNeuroDatasets/ds000246
+605,ds000244,IBC,291.6GB,26 - 40,MRI,archi emotionalarchi socialarchi spatialarchi standardselfRSVP languageclips watchingretinotopyHCP emotionHCP gamblingHCP langageHCP motorHCP relationalHCP socialHCP WMFictitious event orderingfilm viewingrest eyes open,https: // github.com/OpenNeuroDatasets/ds000244
+606,ds000253,Female action video game players.,11.16GB,,MRI,LocalizerExperimental Run 1Experimental Run 3Experimental Run 4Experimental Run 2,https: // github.com/OpenNeuroDatasets/ds000253
+607,ds000254,Multiband Multi-Echo Simultaneous ASL/BOLD for task-induced functional MRI,3.27GB,20 - 50,MRI,bilateralfingertapping,https: // github.com/OpenNeuroDatasets/ds000254
+608,ds000255,Visual image reconstruction,1.37GB,,MRI,viewFigureviewRandom,https: // github.com/OpenNeuroDatasets/ds000255
+609,ds000256,Behavioral interventions for reducing head motion during MRI scans in children,4.69GB,5 - 15,MRI,restbaselinerestfixationadaptiverestfixationfixedrestmovieadaptiverestmoviefixedrestfixationnofeedbackrestmovienofeedback,https: // github.com/OpenNeuroDatasets/ds000256
+610,ds000258,Multi-echo Cambridge,11.32GB,,MRI,restResting state,https: // github.com/OpenNeuroDatasets/ds000258
+611,ds000245,ds000245_R1.0.0,2.02GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds000245
+612,ds000241,AK6,4.63GB,,MRI,ak6,https: // github.com/OpenNeuroDatasets/ds000241
+613,ds000240,Resting State Perfusion in Healthy Aging,1.07GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds000240
+614,ds000238,Trial timing for multivariate pattern analysis,55.39GB,18 - 35,MRI,Slow12Med8Slow10Quick6Quick4n,https: // github.com/OpenNeuroDatasets/ds000238
+615,ds000217,Route Learning,102.19GB,18 - 31,MRI,localizerroute learningpicture test,https: // github.com/OpenNeuroDatasets/ds000217
+616,ds000210,"Multi-echo fMRI replication sample of autobiographical memory, prospection and theory of mind reasoning tasks",19.16GB,18 - 31,MRI,cuedSGTrest,https: // github.com/OpenNeuroDatasets/ds000210
+617,ds000144,Preschool Anxiety Disorders,2.34GB,,MRI,emotional faces,https: // github.com/OpenNeuroDatasets/ds000144
+618,ds000138,Spinal fMRI reveals decreased descending inhibition during secondary mechanical hyperalgesia,1.07GB,23 - 40,MRI,post heat stimulationpre heat stimulation,https: // github.com/OpenNeuroDatasets/ds000138
+619,ds001302,Inverse Base Rate,5.43GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds001302
+620,ds001299,NumberlineMarking,56.75GB,,MRI,task-numbers,https: // github.com/OpenNeuroDatasets/ds001299
+621,ds000221,MPI-Leipzig_Mind-Brain-Body,390.48GB,,MRI,Rest,https: // github.com/OpenNeuroDatasets/ds000221
+622,ds001297,Personally familiar faces,9.87GB,19 - 32,MRI,face identity oddball,https: // github.com/OpenNeuroDatasets/ds001297
+623,ds001293,Multi-resolution 7T fMRI data on the representation of visual orientation,51.2GB,,MRI,coverage,https: // github.com/OpenNeuroDatasets/ds001293
+624,ds000030,UCLA Consortium for Neuropsychiatric Phenomics LA5c Study,79.28GB,21 - 50,MRI,restscapstopsignalbarttaskswitchbhtpamencpamret,https: // github.com/OpenNeuroDatasets/ds000030
+625,ds000108,Prefrontal-Subcortical Pathways Mediating Successful Emotion Regulation,4.53GB,18 - 41,MRI,Emotion regulation,https: // github.com/OpenNeuroDatasets/ds000108
+626,ds000213,Neural mechanism underlying appearance social comparison,2.25GB,,MRI,social comparison,https: // github.com/OpenNeuroDatasets/ds000213
+627,ds000212,Moral judgments of intentional and accidental moral violations across Harm and Purity domains,8.81GB,19 - 50,MRI,disfbtomtomloc,https: // github.com/OpenNeuroDatasets/ds000212
+628,ds000201,The Stockholm Sleepy Brain Study: Effects of Sleep Deprivation on Cognitive and Emotional Processing in Young and Old,172.88GB,,MRI,ArrowsResting StateHandsFacesSleepinessWorking Memory TestPVT,https: // github.com/OpenNeuroDatasets/ds000201
+629,ds000236,Whole-brain background-suppressed pCASL MRI with 1D-accelerated 3D RARE Stack-Of-Spirals Readout- Dataset 3,915.88MB,61 - 89,MRI,,https: // github.com/OpenNeuroDatasets/ds000236
+630,ds000235,Whole-brain background-suppressed pCASL MRI with 1D-accelerated 3D RARE Stack-Of-Spirals Readout- Dataset 2,184.35MB,21 - 65,MRI,,https: // github.com/OpenNeuroDatasets/ds000235
+631,ds000234,Whole-brain background-suppressed pCASL MRI with 1D-accelerated 3D RARE Stack-Of-Spirals Readout- Dataset 1,311.02MB,27 - 55,MRI,,https: // github.com/OpenNeuroDatasets/ds000234
+632,ds000204,Imaging [18F]AV-1451 and [18F]AV-45 in acute and chronic traumatic brain injury,20.09MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds000204
+633,ds000206,DWI Traveling Human Phantom Study,14.68GB,,MRI,,https: // github.com/OpenNeuroDatasets/ds000206
+634,ds000218,Flavour Pleasantness (Oral Nutritional Supplements),11.71GB,19 - 32,MRI,ONS flavour task,https: // github.com/OpenNeuroDatasets/ds000218
+635,ds000231,Integration of sweet taste and metabolism determines carbohydrate reward-study 3,7.22GB,18 - 34,MRI,flavor,https: // github.com/OpenNeuroDatasets/ds000231
+636,ds000172,Physiological Contribution in Spontaneous Oscillations: An Approximate Quality - Assurance Index for Resting-State fMRI Signals,3.4GB,,MRI,Resting State,https: // github.com/OpenNeuroDatasets/ds000172
+637,ds000219,Flavour Pleasantness (Regular Products),14.92GB,19 - 27,MRI,RP flavour task,https: // github.com/OpenNeuroDatasets/ds000219
+638,ds001247,sports_betting_study,6.87GB,,MRI,cueexposure,https: // github.com/OpenNeuroDatasets/ds001247
+639,ds001246,Generic Object Decoding (fMRI on ImageNet),37.82GB,,MRI,imageryperception,https: // github.com/OpenNeuroDatasets/ds001246
+640,ds000222,Sequential Inference VBM,2GB,21 - 73,MRI,,https: // github.com/OpenNeuroDatasets/ds000222
+641,ds000229,Integration of sweet taste and metabolism determines carbohydrate reward - study 1,3.88GB,19 - 31,MRI,flavor,https: // github.com/OpenNeuroDatasets/ds000229
+642,ds001242,Examining effects of arousal on responses to salient and non-salient stimuli in younger and older adults,16.37GB,,MRI,PPA functional LocalizerSpatial DetectionFear Learning,https: // github.com/OpenNeuroDatasets/ds001242
+643,ds001241,OLVSL_ Object-location visual statistical learning,6.53GB,20 - 33,MRI,learn,https: // github.com/OpenNeuroDatasets/ds001241
+644,ds001235,Human-Object Interaction,4.62GB,,MRI,1back,https: // github.com/OpenNeuroDatasets/ds001235
+645,ds001233,singleFingerRSA,38.09GB,,MRI,cuedSFM,https: // github.com/OpenNeuroDatasets/ds001233
+646,ds001232,Competition between items in working memory leads to forgetting,7.11GB,18 - 29,MRI,Phase 1Phase 2,https: // github.com/OpenNeuroDatasets/ds001232
+647,ds001229,Neural Evidence of the Strategic Choice Between Working Memory and Episodic Memory in Prospective Remembering.,8.41GB,18 - 34,MRI,Episodic MemoryWorking Memory,https: // github.com/OpenNeuroDatasets/ds001229
+648,ds001228,Decoding intentions of self and others,9.53GB,19 - 35,MRI,collaborative task,https: // github.com/OpenNeuroDatasets/ds001228
+649,ds000157,Block design food and nonfood picture viewing task,1.77GB,19 - 26,MRI,Passive viewing task with blocks of food and nonfood images,https: // github.com/OpenNeuroDatasets/ds000157
+650,ds001226,BTC_preop,5.28GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds001226
+651,ds000168,Offline Processing in Associative Learning,3.7GB,18 - 21,MRI,OP,https: // github.com/OpenNeuroDatasets/ds000168
+652,ds000121,Immaturities in Reward Processing and Its Influence on Inhibitory Control in Adolescence (Ring Reward),3.49GB,,MRI,AntiSaccade (AS) Rewarded & Neutral with varying dot position,https: // github.com/OpenNeuroDatasets/ds000121
+653,ds000120,Developmental changes in brain function underlying the influence of reward processing on inhibitory control (Slot Reward),2.54GB,8 - 25,MRI,antisaccade task with fixed order,https: // github.com/OpenNeuroDatasets/ds000120
+654,ds001218,State representation pictures,71.47GB,,MRI,mentalstatepictures,https: // github.com/OpenNeuroDatasets/ds001218
+655,ds000216,Multiband Multi-Echo Imaging of Simultaneous Oxygenation and Flow Timeseries for Resting State Connectivity,2.01GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds000216
+656,ds001178,Example MR artifacts,1.89GB,,MRI,restunknownuknownballoon analog risk taskUnknownmachinegame,https: // github.com/OpenNeuroDatasets/ds001178
+657,ds001168,A high resolution 7-Tesla resting-state fMRI test-retest dataset with cognitive and physiological measures,43.33GB,,MRI,Rest,https: // github.com/OpenNeuroDatasets/ds001168
+658,ds001145,Twilight Zone Movie Watching Dataset,8.18GB,,MRI,Watch movie,https: // github.com/OpenNeuroDatasets/ds001145
+659,ds001132,Sherlock,6.15GB,,MRI,free recallpart 1 of Sherlock episodepart 2 of Sherlock episode,https: // github.com/OpenNeuroDatasets/ds001132
+660,ds001131,Milky-Vodka,3.63GB,18 - 34,MRI,ScrambledMilkySynonymsVodka,https: // github.com/OpenNeuroDatasets/ds001131
+661,ds001110,Sherlock_Merlin,8.85GB,,MRI,Merlin AudioMerlin MovieMerlin free recallSherlock free recallSherlock AudioSherlock Movie,https: // github.com/OpenNeuroDatasets/ds001110
+662,ds001107,Unnamed Dataset,10.6GB,,,,https: // github.com/OpenNeuroDatasets/ds001107
+663,ds001105,Social predictive coding,41.44GB,,MRI,mentalstates,https: // github.com/OpenNeuroDatasets/ds001105
+664,ds000053,Training of loss aversion modulates neural sensitivity toward potential gains,175.65GB,18 - 30,MRI,BaselinePost-testTraining,https: // github.com/OpenNeuroDatasets/ds000053
+665,ds000239,Maclaren test-retest brain volume dataset,856.65MB,26 - 31,MRI,,https: // github.com/OpenNeuroDatasets/ds000239
+666,ds000243,Washington University 120,8.46GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds000243
+667,ds000237,Phonological memory in sign language relies on the visuomotor neural system outside the left hemisphere language network,9.56GB,,MRI,MemorySpan,https: // github.com/OpenNeuroDatasets/ds000237
+668,ds000233,Neural responses to naturalistic clips of behaving animals in two different task contexts,4.74GB,21 - 31,MRI,behtax,https: // github.com/OpenNeuroDatasets/ds000233
+669,ds000232,Adjudicating between face-coding models with individual-face fMRI responses,34.38GB,22 - 38,MRI,localizermain,https: // github.com/OpenNeuroDatasets/ds000232
+670,ds000228,MRI data of 3-12 year old children and adults during viewing of a short animated film,20.69GB,,MRI,pixar,https: // github.com/OpenNeuroDatasets/ds000228
+671,ds000224,The Midnight Scan Club (MSC) dataset,130.91GB,24 - 34,MRI,glasslexicalmemoryfacesmemoryscenesmemorywordsmotorrest,https: // github.com/OpenNeuroDatasets/ds000224
+672,ds000223,Magnitude Effect,5.52GB,,MRI,mag,https: // github.com/OpenNeuroDatasets/ds000223
+673,ds000220,Cost Analysis TBI,4.51GB,18 - 52,MRI,rest,https: // github.com/OpenNeuroDatasets/ds000220
+674,ds000208,Brain connectivity predicts placebo response across chronic pain clinical trials,4.59GB,,MRI,rest,https: // github.com/OpenNeuroDatasets/ds000208
+675,ds000214,EUPD Cyberball,2.01GB,20 - 51,MRI,Cyberball,https: // github.com/OpenNeuroDatasets/ds000214
+676,ds000203,Visual imagery and false memory for pictures,3.08GB,,MRI,Visual imagery false memory,https: // github.com/OpenNeuroDatasets/ds000203
+677,ds000205,Affective Videos,2.77GB,,MRI,Functional localizerPassive Viewing,https: // github.com/OpenNeuroDatasets/ds000205
+678,ds000202,The heterogeneity in retrieved relations between the personality trait 'Harm avoidance' and gray matter volumes due to variations in the VBM and ROI labeling processing settings,462.72MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds000202
+679,ds000200,Pre-adolescents Exposure to Manganese,438.39MB,12 - 19,MRI,Olfactory,https: // github.com/OpenNeuroDatasets/ds000200
+680,ds000174,T1-weighted structural MRI study of cannabis users at baseline and 3 years follow up,671.58MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds000174
+681,ds000171,Neural Processing of Emotional Musical and Nonmusical Stimuli in Depression,6.93GB,18 - 59,MRI,Non-MusicMusic,https: // github.com/OpenNeuroDatasets/ds000171
+682,ds001037,The brain of Chris,8.2MB,,MRI,,https: // github.com/OpenNeuroDatasets/ds001037
+683,ds000170,Learning and memory: motor skill consolidation and intermanual transfer,1.66GB,19 - 35,MRI,"Trained Hand, Trained SequenceTrained Hand, Untrained SequenceUntrained Hand, Trained SequenceUntrained Hand, Untrained Sequence",https: // github.com/OpenNeuroDatasets/ds000170
+684,ds000164,Stroop Task,2.07GB,,MRI,Stroop Task,https: // github.com/OpenNeuroDatasets/ds000164
+685,ds000158,The human Voice Areas: spatial organisation and inter-individual variability in temporal and extra-temporal cortices,14.03GB,,MRI,passive listening,https: // github.com/OpenNeuroDatasets/ds000158
+686,ds000133,Modafinil alters intrinsic functional connectivity of the right posterior insula: a pharmacological resting state fMRI study,2.65GB,,MRI,Resting State,https: // github.com/OpenNeuroDatasets/ds000133
+687,ds000119,Maturational Changes in Anterior Cingulate and Frontoparietal Recruitment Support the Development of Error Processing and Inhibitory Control (Antistate),10.29GB,,MRI,"visual guided saccade (vgs, aka ProSaccade) and antisaccace (anti) task",https: // github.com/OpenNeuroDatasets/ds000119
+688,ds001021,NKI-sample,980.98MB,59,MRI,CHECKERBOARD_1400BREATH_HOLD_1400CHECKERBOARD_645DMN_TRACKING_TESTDMN_TRACKING_TRAINMORAL_DILEMMAMASKPEER1MSITREST_645PEER2REST_CAPREST_1400,https: // github.com/OpenNeuroDatasets/ds001021
+689,ds000116,Auditory and Visual Oddball EEG-fMRI,3.08GB,20 - 40,MRI,auditory oddball with button response to target stimulivisual oddball with button response to target stimuli,https: // github.com/OpenNeuroDatasets/ds000116
+690,ds000114,"A test-retest fMRI dataset for motor, language and spatial attention functions.",4.34GB,,MRI,covert_verb_generationovert_verb_generationfinger_foot_lipsline_bisectionovert_word_repetition,https: // github.com/OpenNeuroDatasets/ds000114
+691,ds000009,The generality of self-control,6.07GB,18 - 33,MRI,balloon analog risk taskdiscountingemotional regulationstop signal,https: // github.com/OpenNeuroDatasets/ds000009
+692,ds000148,Who can afford self-control? The neural efficiency mechanism explains effective self-regulation of behavior,13.46GB,19 - 25,MRI,figure 2-back with 1-back lures,https: // github.com/OpenNeuroDatasets/ds000148
+693,ds000122,Task-related concurrent but opposite modulations of overlapping functional networks as revealed by spatial ICA,1.63GB,22 - 41,MRI,visual attention task,https: // github.com/OpenNeuroDatasets/ds000122
+694,ds000017,ds000017,2.36GB,25 - 50,MRI,probabilistic classificationselective stop-signal task,https: // github.com/OpenNeuroDatasets/ds000017
+695,ds000115,Working memory in healthy and schizophrenic individuals,8.48GB,11 - 30,MRI,letter 0-back taskletter 1-back taskletter 2-back task,https: // github.com/OpenNeuroDatasets/ds000115
+696,ds000110,Incidental encoding task (Posner Cueing Paradigm),5.31GB,18 - 27,MRI,Incidental encoding task using Posner cueing paradigm with object v greeble judgment,https: // github.com/OpenNeuroDatasets/ds000110
+697,ds000109,"Social cognitive tasks (animate movement task, moral judgment task, false belief task)",2.7GB,18 - 88,MRI,theory of mind with manual response,https: // github.com/OpenNeuroDatasets/ds000109
+698,ds000107,Word and object processing,3.14GB,,MRI,one-back task,https: // github.com/OpenNeuroDatasets/ds000107
+699,ds000105,Visual object recognition,1.75GB,,MRI,object viewing,https: // github.com/OpenNeuroDatasets/ds000105
+700,ds000102,Flanker task (event-related),1.75GB,19 - 49,MRI,Flanker,https: // github.com/OpenNeuroDatasets/ds000102
+701,ds000101,Simon task,1.47GB,21 - 49,MRI,Simon Task,https: // github.com/OpenNeuroDatasets/ds000101
+702,ds000052,Classification learning and reversal,1.26GB,,MRI,Reversal weather predictionWeather prediction,https: // github.com/OpenNeuroDatasets/ds000052
+703,ds000051,Cross-language repetition priming,2.11GB,,MRI,abstract-concrete judgment,https: // github.com/OpenNeuroDatasets/ds000051
+704,ds000011,Classification learning and tone-counting,2.27GB,19 - 37,MRI,Classification probe without feedbackSingle-task weather predictionDual-task weather predictiontone-counting,https: // github.com/OpenNeuroDatasets/ds000011
+705,ds000008,Stop-signal task with unconditional and conditional stopping,2.01GB,20 - 37,MRI,stop signalconditional stop signal,https: // github.com/OpenNeuroDatasets/ds000008
+706,ds000007,Stop-signal task with spoken & manual responses,3.36GB,18 - 39,MRI,Stop ManualStop VocalStop Word,https: // github.com/OpenNeuroDatasets/ds000007
+707,ds000006,ds000006,4.44GB,19 - 35,MRI,living-nonliving decision with plain or mirror-reversed text,https: // github.com/OpenNeuroDatasets/ds000006
+708,ds000005,Mixed-gambles task,1.77GB,19 - 28,MRI,mixed-gambles task,https: // github.com/OpenNeuroDatasets/ds000005
+709,ds000003,Rhyme judgment,394.17MB,18 - 38,MRI,rhyme judgment,https: // github.com/OpenNeuroDatasets/ds000003
+710,ds000002,Classification learning,2.7GB,19 - 31,MRI,deterministic classificationmixed event-related probeprobabilistic classification,https: // github.com/OpenNeuroDatasets/ds000002
+711,ds000001,Balloon Analog Risk-taking Task,2.25GB,19 - 30,MRI,balloon analog risk task,https: // github.com/OpenNeuroDatasets/ds000001
